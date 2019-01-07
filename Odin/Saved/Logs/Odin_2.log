@@ -1,0 +1,950 @@
+﻿Log file open, 01/07/19 13:39:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Odin
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1507876547) SRandInit(1507876548).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.238593
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/Unreal4/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.07-05.39.23:274][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.07-05.39.23:274][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.07-05.39.23:302][  0]LogInit: Computer: USERUSE-6DRORO9
+[2019.01.07-05.39.23:302][  0]LogInit: User: Administrator
+[2019.01.07-05.39.23:302][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.07-05.39.23:302][  0]LogInit: High frequency timer resolution =3.312647 MHz
+[2019.01.07-05.39.23:303][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.07-05.39.23:303][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.07-05.39.23:303][  0]LogMemory: Process Physical Memory: 271.61 MB used, 271.61 MB peak
+[2019.01.07-05.39.23:303][  0]LogMemory: Process Virtual Memory: 270.01 MB used, 270.01 MB peak
+[2019.01.07-05.39.23:303][  0]LogMemory: Physical Memory: 10067.13 MB used,  6268.52 MB free, 16335.66 MB total
+[2019.01.07-05.39.23:303][  0]LogMemory: Virtual Memory: 643.08 MB used,  6268.52 MB free, 134217728.00 MB total
+[2019.01.07-05.39.23:601][  0]LogInit: Using OS detected language (zh-CN).
+[2019.01.07-05.39.23:601][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.01.07-05.39.23:803][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.07-05.39.24:663][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.07-05.39.24:823][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.01.07-05.39.24:823][  0]LogD3D11RHI:       2990/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.07-05.39.24:828][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.07-05.39.24:828][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.07-05.39.24:828][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.07-05.39.24:837][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.07-05.39.24:837][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.07-05.39.24:837][  0]LogWindows: EnumDisplayDevices:
+[2019.01.07-05.39.24:838][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.01.07-05.39.24:842][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.01.07-05.39.24:846][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.01.07-05.39.24:850][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.01.07-05.39.24:853][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.07-05.39.24:853][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.01.07-05.39.24:853][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2019.01.07-05.39.24:853][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2019.01.07-05.39.24:853][  0]LogRHI: Texture pool is 2093 MB (70% of 2990 MB)
+[2019.01.07-05.39.24:924][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.07-05.39.24:948][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.07-05.39.24:962][  0]LogShaderCompilers: Guid format shader working directory is 41 characters bigger than the processId version (J:/Odin/Odin/Intermediate/Shaders/WorkingDirectory/17308/).
+[2019.01.07-05.39.24:963][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/EFD293654B89AFAB58526DA0E61EE912/'.
+[2019.01.07-05.39.24:963][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.07-05.39.27:169][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.07-05.39.27:278][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.07-05.39.27:370][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.07-05.39.27:477][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.07-05.39.27:565][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.07-05.39.27:670][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.07-05.39.27:783][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.07-05.39.27:898][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.07-05.39.27:989][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.07-05.39.28:086][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.01.07-05.39.28:187][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.01.07-05.39.28:288][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.01.07-05.39.28:388][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.01.07-05.39.28:481][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.01.07-05.39.28:673][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.01.07-05.39.28:673][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.01.07-05.39.28:775][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.07-05.39.28:860][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.07-05.39.29:021][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.07-05.39.29:068][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.07-05.39.29:162][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.07-05.39.29:264][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.07-05.39.29:359][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.07-05.39.29:460][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.07-05.39.29:460][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.07-05.39.30:557][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.07-05.39.30:772][  0]LogDerivedDataCache: Loaded boot cache 0.22s 92MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.01.07-05.39.30:773][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.01.07-05.39.30:773][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file J:/Odin/Odin/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.07-05.39.30:773][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.07-05.39.30:773][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file J:/Odin/Odin/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.07-05.39.30:773][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.07-05.39.30:804][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.07-05.39.30:820][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.07-05.39.32:754][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.07-05.39.32:755][  0]LogSlate: Using Freetype 2.6.0
+[2019.01.07-05.39.32:756][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.07-05.39.32:756][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.07-05.39.33:705][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.07-05.39.35:858][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.07-05.39.35:948][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.07-05.39.35:948][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.07-05.39.35:948][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.07-05.39.35:948][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.01.07-05.39.35:948][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.01.07-05.39.36:096][  0]LogNetVersion: Odin , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2190675332)
+[2019.01.07-05.39.36:565][  0]LogAssetRegistry: FAssetRegistry took 0.0312 seconds to start up
+[2019.01.07-05.39.40:127][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 4 prioritized culture(s) in 0.224523 seconds
+[2019.01.07-05.39.40:137][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2019.01.07-05.39.40:138][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2019.01.07-05.39.40:138][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.07-05.39.40:194][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.01.07-05.39.45:778][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.07-05.39.45:849][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.07-05.39.47:276][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.01.07-05.39.49:267][  0]SourceControl: 源码控制已禁用
+[2019.01.07-05.39.49:268][  0]SourceControl: 源码控制已禁用
+[2019.01.07-05.39.49:357][  0]SourceControl: 源码控制已禁用
+[2019.01.07-05.39.49:458][  0]SourceControl: 源码控制已禁用
+[2019.01.07-05.39.50:944][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.07-05.39.51:404][  0]LogOcInput: OculusInput pre-init called
+[2019.01.07-05.39.52:006][  0]LogEngine: Initializing Engine...
+[2019.01.07-05.39.52:054][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.01.07-05.39.55:378][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.07-05.39.55:378][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.07-05.39.55:561][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.07-05.39.55:633][  0]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.07-05.39.55:705][  0]LogInit: FAudioDevice initialized.
+[2019.01.07-05.39.56:043][  0]LogDerivedDataCache: Saved boot cache 0.34s 92MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.01.07-05.39.56:079][  0]LogInit: Texture streaming: Enabled
+[2019.01.07-05.39.56:212][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.07-05.39.56:387][  0]LogInit: Transaction tracking system initialized
+[2019.01.07-05.39.56:822][  0]BlueprintLog: New page: 编辑器加载
+[2019.01.07-05.39.57:992][  0]LocalizationService: 本地化服务已被禁用
+[2019.01.07-05.39.59:060][  0]LogConsoleResponse: Display: 
+[2019.01.07-05.39.59:715][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.07-05.39.59:715][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.07-05.39.59:715][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.07-05.39.59:945][  0]LogFileCache: Scanning file cache for directory 'J:/Odin/Odin/Content/' took 0.02s
+[2019.01.07-05.40.02:076][  0]SourceControl: 源码控制已禁用
+[2019.01.07-05.40.02:462][  0]LogSlate: Took 0.000386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.07-05.40.02:468][  0]LogSlate: Took 0.006060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.01.07-05.43.10:660][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2019.01.07-05.43.10:669][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2019.01.07-05.43.10:673][  0]Cmd: MAP LOAD FILE="J:/Odin/Odin/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.07-05.43.10:674][  0]LightingResults: New page: 光照构建
+[2019.01.07-05.43.10:740][  0]MapCheck: New page: 地图检测
+[2019.01.07-05.43.10:740][  0]LightingResults: New page: 光照构建
+[2019.01.07-05.43.11:609][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.07-05.43.11:629][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.07-05.43.11:681][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.07-05.43.11:789][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时108.485毫秒完成。
+[2019.01.07-05.43.11:789][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.116
+[2019.01.07-05.43.11:904][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_41e0_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_4920_0///####STATCAT_Advanced####
+[2019.01.07-05.43.11:904][  0]LogCollectionManager: Loaded 0 collections in 0.001989 seconds
+[2019.01.07-05.43.11:995][  0]LogFileCache: Scanning file cache for directory 'J:/Odin/Odin/Saved/Collections/' took 0.01s
+[2019.01.07-05.43.11:995][  0]LogFileCache: Scanning file cache for directory 'J:/Odin/Odin/Content/Developers/Administrator/Collections/' took 0.01s
+[2019.01.07-05.43.11:995][  0]LogFileCache: Scanning file cache for directory 'J:/Odin/Odin/Content/Collections/' took 0.01s
+[2019.01.07-05.43.11:995][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.07-05.43.12:004][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2363 classes and 519 folders.
+[2019.01.07-05.43.12:074][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.07-05.43.12:167][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.07-05.43.12:222][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.07-05.43.12:317][  0]LogSlate: Took 0.000472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.07-05.43.12:322][  0]LogSlate: Took 0.000398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.07-05.43.12:468][  0]LogRenderer: Reallocating scene render targets to support 1616x576 Format 10 NumSamples 1 (Frame:1).
+[2019.01.07-05.43.12:690][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.07-05.43.12:691][  0]LogLoad: (Engine Initialization) Total time: 236.08 seconds
+[2019.01.07-05.43.12:691][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.07-05.43.12:691][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2019.01.07-05.43.12:691][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2019.01.07-05.43.12:721][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.07-05.43.12:759][  0]LogSlate: Took 0.001267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.01.07-05.43.12:781][  1]LogAssetRegistry: Asset discovery search completed in 216.2388 seconds
+[2019.01.07-05.43.12:783][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.07-05.43.12:783][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000080 seconds (updated 0 objects)
+[2019.01.07-05.44.19:775][ 52]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.01.07-05.44.20:211][ 52]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2019.01.07-05.44.21:410][ 52]LogSlate: Took 0.000574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.01.07-05.44.21:411][ 52]LogSlate: Took 0.000401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.07-05.45.29:077][691]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.07-05.45.50:838][809]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.01.07-05.45.51:134][809]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2019.01.07-05.45.51:355][809]LogRenderer: Reallocating scene render targets to support 1860x924 Format 10 NumSamples 1 (Frame:1).
+[2019.01.07-05.45.55:506][138]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2019.01.07-05.45.55:744][138]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2019.01.07-05.45.55:800][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2019.01.07-05.45.56:159][141]LogSlate: Took 0.000488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.07-05.45.56:763][167]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2019.01.07-05.45.56:764][167]MaterialEditorStats: Vertex shader: 32 instructions
+[2019.01.07-05.45.56:764][167]MaterialEditorStats: Texture samplers: 1/16
+[2019.01.07-05.45.56:764][167]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.07-05.46.32:341][534]LogTexture: Display: Building textures: T_ML_FineRubber (AutoDXT, 2048X2048)
+[2019.01.07-05.46.32:556][534]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.07-05.46.32:812][534]LogMetaData: Removing '/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2019.01.07-05.46.32:812][534]LogMetaData: Removing '/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2019.01.07-05.46.32:812][534]LogMetaData: Removing '/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C:bIsInAir' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2019.01.07-05.46.32:812][534]LogMetaData: Removing '/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C:IsMoving' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2019.01.07-05.46.32:812][534]LogMetaData: Removing '/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2019.01.07-05.46.32:812][534]LogMetaData: Removing '/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:bIsInAir' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2019.01.07-05.46.32:812][534]LogMetaData: Removing '/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:IsMoving' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2019.01.07-05.46.32:812][534]LogMetaData: Removing '/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2019.01.07-05.46.32:812][534]LogMetaData: Removing '/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP' ref from Metadata '/Game/FirstPerson/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2019.01.07-05.46.33:854][534]LogUObjectGlobals: Warning: 寻找对象'Object /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms'失败
+[2019.01.07-05.46.33:925][534]LogSavePackage: Save=11.23ms
+[2019.01.07-05.46.33:925][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPersonFire_Montage2989F12B48A24E629A33F38D008AD4AD.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPersonFire_Montage.uasset'
+[2019.01.07-05.46.33:929][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPersonFire_Montage.uasset
+[2019.01.07-05.46.33:974][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_AnimBP" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.01.07-05.46.34:099][534]LogSavePackage: Save=121.98ms
+[2019.01.07-05.46.34:099][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPerson_AnimBPBD55E7724D03F7620E26569C2D9EF1DA.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.01.07-05.46.34:102][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_AnimBP.uasset
+[2019.01.07-05.46.34:130][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_Fire" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_Fire.uasset" SILENT=true
+[2019.01.07-05.46.34:143][534]LogSavePackage: Save=10.30ms
+[2019.01.07-05.46.34:143][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPerson_FireCFADB1B549B66EF42F99AB8985A354EC.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_Fire.uasset'
+[2019.01.07-05.46.34:147][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_Fire.uasset
+[2019.01.07-05.46.34:179][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_Idle" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_Idle.uasset" SILENT=true
+[2019.01.07-05.46.34:192][534]LogSavePackage: Save=11.40ms
+[2019.01.07-05.46.34:192][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPerson_Idle47BA76994C1C02ABE71A9F9592A5EFED.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_Idle.uasset'
+[2019.01.07-05.46.34:195][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_Idle.uasset
+[2019.01.07-05.46.34:227][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_JumpEnd" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" SILENT=true
+[2019.01.07-05.46.34:240][534]LogSavePackage: Save=11.74ms
+[2019.01.07-05.46.34:240][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPerson_JumpEnd4C7F923D4D6E1F644A5720BCBF42273E.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_JumpEnd.uasset'
+[2019.01.07-05.46.34:244][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_JumpEnd.uasset
+[2019.01.07-05.46.34:275][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_JumpLoop" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" SILENT=true
+[2019.01.07-05.46.34:289][534]LogSavePackage: Save=11.15ms
+[2019.01.07-05.46.34:289][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPerson_JumpLoop5E0485A244BDC52237A2E28F79184EAF.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_JumpLoop.uasset'
+[2019.01.07-05.46.34:292][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_JumpLoop.uasset
+[2019.01.07-05.46.34:325][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_JumpStart" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_JumpStart.uasset" SILENT=true
+[2019.01.07-05.46.34:338][534]LogSavePackage: Save=11.49ms
+[2019.01.07-05.46.34:338][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPerson_JumpStart083E54884732BFC514ECF4BC7C5F803A.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_JumpStart.uasset'
+[2019.01.07-05.46.34:341][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_JumpStart.uasset
+[2019.01.07-05.46.34:375][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Animations/FirstPerson_Run" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_Run.uasset" SILENT=true
+[2019.01.07-05.46.34:389][534]LogSavePackage: Save=11.42ms
+[2019.01.07-05.46.34:390][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPerson_RunE2F2A2E74D8EFC28DB4AD3ABD67A0732.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_Run.uasset'
+[2019.01.07-05.46.34:393][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Animations/FirstPerson_Run.uasset
+[2019.01.07-05.46.34:415][534]LogSavePackage: Save=4.80ms
+[2019.01.07-05.46.34:415][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPersonTemplateWeaponFire027F9048604339948BE06FC39442F27503.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2019.01.07-05.46.34:418][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset
+[2019.01.07-05.46.34:454][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Character/Materials/M_UE4Man_Body" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" SILENT=true
+[2019.01.07-05.46.34:477][534]LogSavePackage: Save=20.72ms
+[2019.01.07-05.46.34:477][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/M_UE4Man_Body91611AB942018408F898D782B8F70C34.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/M_UE4Man_Body.uasset'
+[2019.01.07-05.46.34:480][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/M_UE4Man_Body.uasset
+[2019.01.07-05.46.34:499][534]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2019.01.07-05.46.34:622][534]LogSavePackage: Save=14.00ms
+[2019.01.07-05.46.34:622][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/ML_GlossyBlack_Latex_UE4C724E6CC41430C50DC799BA3B42CC4E1.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2019.01.07-05.46.34:627][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2019.01.07-05.46.34:646][534]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2019.01.07-05.46.34:740][534]LogSavePackage: Save=10.12ms
+[2019.01.07-05.46.34:740][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/ML_Plastic_Shiny_BeigeDBED1224496C7D0A19BCBA94411E8A6D.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2019.01.07-05.46.34:744][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2019.01.07-05.46.34:757][534]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2019.01.07-05.46.34:850][534]LogSavePackage: Save=13.78ms
+[2019.01.07-05.46.34:850][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/ML_Plastic_Shiny_Beige_LOGOE0F45F224290844BEA4501A5D553A7BE.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2019.01.07-05.46.34:855][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2019.01.07-05.46.34:894][534]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2019.01.07-05.46.34:996][534]LogSavePackage: Save=18.35ms
+[2019.01.07-05.46.34:996][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/ML_SoftMetal_UE4D83E9FCF4DBAB979BEFB13A004830959.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2019.01.07-05.46.35:002][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2019.01.07-05.46.35:231][534]LogSavePackage: Save=205.46ms
+[2019.01.07-05.46.35:231][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/T_ML_Aluminum016F0A9F9B48A08931067FBCACA258A4FA.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2019.01.07-05.46.35:236][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2019.01.07-05.46.35:360][534]LogSavePackage: Save=96.30ms
+[2019.01.07-05.46.35:360][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/T_ML_Aluminum01_N004E07F8480CDE6D5B4236A628F8F2B4.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2019.01.07-05.46.35:366][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2019.01.07-05.46.35:520][534]LogSavePackage: Save=130.59ms
+[2019.01.07-05.46.35:521][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/T_ML_Rubber_Blue_01_D3E77E90A4707C9E7C946CF83CEBCC25B.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2019.01.07-05.46.35:525][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2019.01.07-05.46.35:645][534]LogSavePackage: Save=100.97ms
+[2019.01.07-05.46.35:645][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/T_ML_Rubber_Blue_01_NC7F08E894AC86DF17705BDBEA982DB8A.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2019.01.07-05.46.35:652][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2019.01.07-05.46.35:716][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Character/Mesh/SK_Mannequin_Arms" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" SILENT=true
+[2019.01.07-05.46.35:792][534]LogSavePackage: Save=72.33ms
+[2019.01.07-05.46.35:792][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/SK_Mannequin_ArmsD1F782DD47589FA11384E4835777B3E3.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset'
+[2019.01.07-05.46.35:797][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset
+[2019.01.07-05.46.35:878][534]LogSavePackage: Save=19.47ms
+[2019.01.07-05.46.35:879][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/SK_Mannequin_Arms_PhysicsAsset40333F22472D99E2E7D2DDA114E5349F.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset'
+[2019.01.07-05.46.35:884][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset
+[2019.01.07-05.46.35:897][534]LogSavePackage: Save=5.37ms
+[2019.01.07-05.46.35:898][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/SK_Mannequin_Arms_Skeleton59D86C3A41CCDBC09B4660BD5D914493.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2019.01.07-05.46.35:904][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2019.01.07-05.46.35:922][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Character/Textures/UE4_LOGO_CARD" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" SILENT=true
+[2019.01.07-05.46.35:939][534]LogSavePackage: Save=13.30ms
+[2019.01.07-05.46.35:939][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/UE4_LOGO_CARD8CEF67AC443E293D43BFE9987B672D5B.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset'
+[2019.01.07-05.46.35:943][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset
+[2019.01.07-05.46.35:980][534]LogSavePackage: Save=19.46ms
+[2019.01.07-05.46.35:980][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/UE4_Mannequin_MAT_MASKA71D13B534F78129D5443A0878EB1CC96.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2019.01.07-05.46.35:985][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2019.01.07-05.46.36:127][534]LogSavePackage: Save=121.47ms
+[2019.01.07-05.46.36:127][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/UE4_Mannequin__normals4B7FA2C64BFDCE79702C0FAEDEE07869.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset'
+[2019.01.07-05.46.36:132][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset
+[2019.01.07-05.46.36:176][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/FPWeapon/Materials/M_FPGun" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" SILENT=true
+[2019.01.07-05.46.36:210][534]LogSavePackage: Save=31.22ms
+[2019.01.07-05.46.36:210][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/M_FPGun2B4FBAFC4B81B0AD365AE6B8A9675F1E.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/M_FPGun.uasset'
+[2019.01.07-05.46.36:215][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/M_FPGun.uasset
+[2019.01.07-05.46.36:255][534]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2019.01.07-05.46.36:374][534]LogSavePackage: Save=19.57ms
+[2019.01.07-05.46.36:374][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/ML_GlossyBlack_Latex_UE4F2C045434A981530459C2284BFD6CA4B.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2019.01.07-05.46.36:379][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2019.01.07-05.46.36:390][534]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2019.01.07-05.46.36:503][534]LogSavePackage: Save=14.50ms
+[2019.01.07-05.46.36:503][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/ML_Plastic_Shiny_Beige0D7CA0A74006E9946D107FBA854500D9.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2019.01.07-05.46.36:509][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2019.01.07-05.46.36:521][534]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2019.01.07-05.46.36:632][534]LogSavePackage: Save=16.37ms
+[2019.01.07-05.46.36:632][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/ML_Plastic_Shiny_Beige_LOGO3AACEF274FC1698034B5F0824177F146.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2019.01.07-05.46.36:637][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2019.01.07-05.46.36:654][534]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2019.01.07-05.46.36:759][534]LogSavePackage: Save=14.50ms
+[2019.01.07-05.46.36:759][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/ML_Screen7090D0B04A043446D689E082F3580073.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset'
+[2019.01.07-05.46.36:764][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset
+[2019.01.07-05.46.36:776][534]LogMaterial: Missing cached shader map for material Material_8, compiling. 
+[2019.01.07-05.46.36:892][534]LogSavePackage: Save=19.69ms
+[2019.01.07-05.46.36:892][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/ML_SoftMetal_UE406736237432CE0DFF000EA8EB14E3DCE.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2019.01.07-05.46.36:898][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2019.01.07-05.46.37:116][534]LogSavePackage: Save=196.61ms
+[2019.01.07-05.46.37:117][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/T_ML_Aluminum011F0493E046D79D5539880C9E8B5A68A6.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2019.01.07-05.46.37:123][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2019.01.07-05.46.37:240][534]LogSavePackage: Save=96.12ms
+[2019.01.07-05.46.37:240][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/T_ML_Aluminum01_ND86BA6954F152320A69496B39ADA69DB.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2019.01.07-05.46.37:245][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2019.01.07-05.46.37:408][534]LogSavePackage: Save=145.14ms
+[2019.01.07-05.46.37:408][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/T_ML_FineRubberF60CD6C14D33A7D3E3980395E3C0BF50.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset'
+[2019.01.07-05.46.37:414][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset
+[2019.01.07-05.46.37:556][534]LogSavePackage: Save=122.38ms
+[2019.01.07-05.46.37:556][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/T_ML_Rubber_Blue_01_D31BFA18740E95E6DD57EBEAF7C2A17C8.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2019.01.07-05.46.37:561][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2019.01.07-05.46.37:684][534]LogSavePackage: Save=102.38ms
+[2019.01.07-05.46.37:684][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/T_ML_Rubber_Blue_01_NF0198B8C4C55B5E1F8539A9012474155.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2019.01.07-05.46.37:690][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2019.01.07-05.46.37:725][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/FPWeapon/Mesh/SK_FPGun" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" SILENT=true
+[2019.01.07-05.46.37:757][534]LogSavePackage: Save=29.39ms
+[2019.01.07-05.46.37:757][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/SK_FPGunC016752C48AFEE33871C55847296C297.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset'
+[2019.01.07-05.46.37:762][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset
+[2019.01.07-05.46.37:809][534]LogSavePackage: Save=13.65ms
+[2019.01.07-05.46.37:809][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/SK_FPGun_PhysicsAssetE57B71B343FEAD3B982AA4B4DA5AB323.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset'
+[2019.01.07-05.46.37:815][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset
+[2019.01.07-05.46.37:822][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" SILENT=true
+[2019.01.07-05.46.37:829][534]LogSavePackage: Save=4.19ms
+[2019.01.07-05.46.37:829][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/SK_FPGun_Skeleton2328CCFB47184C5622DF23A23369B40F.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset'
+[2019.01.07-05.46.37:835][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset
+[2019.01.07-05.46.37:850][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/FPWeapon/Textures/T_FPGun_M" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" SILENT=true
+[2019.01.07-05.46.37:874][534]LogSavePackage: Save=19.54ms
+[2019.01.07-05.46.37:874][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/T_FPGun_MFF661D6F4D847897D0BDE88E99EEC523.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset'
+[2019.01.07-05.46.37:879][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset
+[2019.01.07-05.46.37:897][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/FPWeapon/Textures/T_FPGun_N" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" SILENT=true
+[2019.01.07-05.46.37:956][534]LogSavePackage: Save=55.91ms
+[2019.01.07-05.46.37:956][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/T_FPGun_NF6CD97684019A0E4D4F44F928C32C1B9.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset'
+[2019.01.07-05.46.37:961][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset
+[2019.01.07-05.46.38:000][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Meshes/BaseMaterial" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Meshes/BaseMaterial.uasset" SILENT=true
+[2019.01.07-05.46.38:017][534]LogSavePackage: Save=14.69ms
+[2019.01.07-05.46.38:017][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/BaseMaterialF2285B124145E14F855CE6AAD16923E9.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Meshes/BaseMaterial.uasset'
+[2019.01.07-05.46.38:022][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Meshes/BaseMaterial.uasset
+[2019.01.07-05.46.38:060][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Meshes/CubeMaterialOverride" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Meshes/CubeMaterialOverride.uasset" SILENT=true
+[2019.01.07-05.46.38:075][534]LogSavePackage: Save=12.85ms
+[2019.01.07-05.46.38:076][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/CubeMaterialOverride189B3C5D426AA8A060062EB7B98D5E77.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Meshes/CubeMaterialOverride.uasset'
+[2019.01.07-05.46.38:080][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Meshes/CubeMaterialOverride.uasset
+[2019.01.07-05.46.38:086][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Meshes/CubeMaterialOverride" FILE="J:/Odin/Odin/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" SILENT=true
+[2019.01.07-05.46.38:094][534]LogSavePackage: Save=2.03ms
+[2019.01.07-05.46.38:094][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/CubeMaterialOverrideEF5CFC2B4ECCDA5A5DED66B6FF6652A0.tmp' to 'J:/Odin/Odin/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset'
+[2019.01.07-05.46.38:100][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset
+[2019.01.07-05.46.38:156][534]LogSavePackage: Save=14.57ms
+[2019.01.07-05.46.38:156][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPersonProjectileMaterialB23538C6446A07DD6457C99276C71EB9.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset'
+[2019.01.07-05.46.38:161][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset
+[2019.01.07-05.46.38:201][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Meshes/FirstPersonProjectileMesh" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" SILENT=true
+[2019.01.07-05.46.38:221][534]LogSavePackage: Save=15.94ms
+[2019.01.07-05.46.38:221][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPersonProjectileMesh5B00ED3D419CFBE83796ED9FA665DB8C.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset'
+[2019.01.07-05.46.38:225][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset
+[2019.01.07-05.46.38:231][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPerson/Textures/FirstPersonCrosshair" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Textures/FirstPersonCrosshair.uasset" SILENT=true
+[2019.01.07-05.46.38:237][534]LogSavePackage: Save=3.17ms
+[2019.01.07-05.46.38:237][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPersonCrosshair0DEB8E2841CCEC3F8B3BCC960569AFF4.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Textures/FirstPersonCrosshair.uasset'
+[2019.01.07-05.46.38:241][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPerson/Textures/FirstPersonCrosshair.uasset
+[2019.01.07-05.46.44:345][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="J:/Odin/Odin/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.01.07-05.46.44:575][534]LogSavePackage: Save=222.93ms
+[2019.01.07-05.46.44:575][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPersonCharacterAD004FD54A970D8298A634B9B59BF359.tmp' to 'J:/Odin/Odin/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.07-05.46.44:581][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2019.01.07-05.46.44:588][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy" FILE="J:/Odin/Odin/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" SILENT=true
+[2019.01.07-05.46.44:597][534]LogSavePackage: Save=2.90ms
+[2019.01.07-05.46.44:597][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPersonAnimBlueprint_Copy98D2CA024B62F8E9C8EEA0979EDA986A.tmp' to 'J:/Odin/Odin/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset'
+[2019.01.07-05.46.44:600][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset
+[2019.01.07-05.46.44:606][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonHUD" FILE="J:/Odin/Odin/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" SILENT=true
+[2019.01.07-05.46.44:645][534]LogSavePackage: Save=31.38ms
+[2019.01.07-05.46.44:645][534]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPersonHUD9B2242DF4AF3A79B49906BBE8C97166A.tmp' to 'J:/Odin/Odin/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset'
+[2019.01.07-05.46.44:650][534]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset
+[2019.01.07-05.46.53:388][ 45]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.07-05.46.53:447][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:447][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter:GetPlayerViewPoint.K2Node_FunctionResult_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:447][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter:GetPlayerViewPoint.K2Node_FunctionEntry_111' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:447][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_157' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:447][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:447][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:447][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:ShootDir' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:EndTrace' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:StartTrace' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:WeaponDamage' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:WeaponRange' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:GunOffset' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:FirstPersonCamera' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:Mesh1P' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:FP_Gun' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:GetPlayerViewPoint.MyPlayerController' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ShootDir' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:EndTrace' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:StartTrace' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:448][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:WeaponDamage' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:WeaponRange' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GunOffset' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:FirstPersonCamera' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:Mesh1P' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:FP_Gun' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:GetPlayerViewPoint.MyPlayerController' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:449][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:450][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:450][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_157' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:450][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:InpTchEvt_K2Node_InputTouchEvent_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2019.01.07-05.46.53:460][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2019.01.07-05.46.53:460][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:ReceiveDrawHUD' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2019.01.07-05.46.53:461][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2019.01.07-05.46.53:461][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2019.01.07-05.46.53:461][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2019.01.07-05.46.53:461][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2019.01.07-05.46.53:461][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ReceiveDrawHUD' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2019.01.07-05.46.53:461][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2019.01.07-05.46.53:461][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2019.01.07-05.46.53:473][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C' ref from Metadata '/Game/FirstPersonBP/FirstPersonOverview.PackageMetaData'
+[2019.01.07-05.46.53:473][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/FirstPersonOverview.SKEL_FirstPersonOverview_C' ref from Metadata '/Game/FirstPersonBP/FirstPersonOverview.PackageMetaData'
+[2019.01.07-05.46.53:484][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2019.01.07-05.46.53:484][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonGameMode.SKEL_FirstPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2019.01.07-05.46.53:484][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonGameMode.SKEL_FirstPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2019.01.07-05.46.53:484][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonGameMode.SKEL_FirstPersonGameMode_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2019.01.07-05.46.53:484][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2019.01.07-05.46.53:484][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2019.01.07-05.46.54:716][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' ref from Metadata '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.PackageMetaData'
+[2019.01.07-05.46.54:716][ 45]LogMetaData: Removing '/Game/UnrealPackage/FirstPersonBP/Maps/FirstPersonExampleMap.SKEL_FirstPersonExampleMap_C' ref from Metadata '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.PackageMetaData'
+[2019.01.07-05.46.54:814][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2019.01.07-05.46.55:009][ 45]LogSavePackage: Save=193.03ms
+[2019.01.07-05.46.55:009][ 45]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPersonCharacterDA202E7244C2489349B02588FF6AC274.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.01.07-05.46.55:014][ 45]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2019.01.07-05.46.55:022][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonHUD" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" SILENT=true
+[2019.01.07-05.46.55:059][ 45]LogSavePackage: Save=32.68ms
+[2019.01.07-05.46.55:059][ 45]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPersonHUDA2350ED94368B4BEE4BD98B10207E27A.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonHUD.uasset'
+[2019.01.07-05.46.55:064][ 45]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonHUD.uasset
+[2019.01.07-05.46.55:071][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPersonBP/FirstPersonOverview" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/FirstPersonOverview.uasset" SILENT=true
+[2019.01.07-05.46.55:106][ 45]LogSavePackage: Save=30.70ms
+[2019.01.07-05.46.55:106][ 45]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPersonOverviewA2F4D40740F90DAABEE24989B116EECC.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/FirstPersonOverview.uasset'
+[2019.01.07-05.46.55:111][ 45]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/FirstPersonOverview.uasset
+[2019.01.07-05.46.55:117][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonGameMode" FILE="J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" SILENT=true
+[2019.01.07-05.46.55:130][ 45]LogSavePackage: Save=9.89ms
+[2019.01.07-05.46.55:130][ 45]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPersonGameModeE60A1AF34A8FD2EB7B11FD9D842F4CCF.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2019.01.07-05.46.55:135][ 45]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset
+[2019.01.07-05.46.57:432][ 45]LogSavePackage: Save=2031.65ms
+[2019.01.07-05.46.57:432][ 45]LogSavePackage: Moving 'J:/Odin/Odin/Saved/FirstPersonExampleMapB11298384C6C98EBB3978DABE63F36C7.tmp' to 'J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.01.07-05.46.57:437][ 45]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/UnrealPackage/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2019.01.07-05.46.57:450][ 45]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 2.309
+[2019.01.07-05.47.15:360][634]Cmd: MAP LOAD FILE="J:/Odin/Odin/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.07-05.47.15:361][634]LightingResults: New page: 光照构建
+[2019.01.07-05.47.15:362][634]LoadErrors: New page: 正在加载地图： ThirdPersonExampleMap.umap
+[2019.01.07-05.47.15:363][634]MapCheck: New page: 地图检测
+[2019.01.07-05.47.15:363][634]LightingResults: New page: 光照构建
+[2019.01.07-05.47.15:590][634]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.07-05.47.15:706][634]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.07-05.47.15:748][634]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.07-05.47.15:875][634]MapCheck: 地图检测完成：0个错误，0 个警告，用时126.882毫秒完成。
+[2019.01.07-05.47.15:877][634]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.518
+[2019.01.07-05.47.17:526][793]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2019.01.07-05.47.17:739][794]Cmd: QUIT_EDITOR
+[2019.01.07-05.47.17:791][794]LogExit: Preparing to exit.
+[2019.01.07-05.47.18:494][794]LogExit: Editor shut down
+[2019.01.07-05.47.18:498][794]LogExit: Transaction tracking system shut down
+[2019.01.07-05.47.18:640][794]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.01.07-05.47.18:640][794]LogDirectoryWatcher: A directory notification for 'J:/Odin/Odin/Content/' was aborted.
+[2019.01.07-05.47.18:640][794]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2019.01.07-05.47.18:640][794]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.01.07-05.47.18:640][794]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.01.07-05.47.18:640][794]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.01.07-05.47.18:640][794]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.01.07-05.47.18:784][794]LogExit: Object subsystem successfully closed.
+[2019.01.07-05.47.18:816][794]LogD3D11RHI: Shutdown
+[2019.01.07-05.47.18:816][794]LogD3D11RHI: CleanupD3DDevice
+[2019.01.07-05.47.18:823][794]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.07-05.47.18:833][794]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (558)
+[2019.01.07-05.47.18:834][794]LogModuleManager: Shutting down and abandoning module MaterialEditor (556)
+[2019.01.07-05.47.18:834][794]LogModuleManager: Shutting down and abandoning module TextureEditor (554)
+[2019.01.07-05.47.18:834][794]LogModuleManager: Shutting down and abandoning module SequencerWidgets (552)
+[2019.01.07-05.47.18:834][794]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2019.01.07-05.47.18:834][794]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2019.01.07-05.47.18:834][794]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2019.01.07-05.47.18:834][794]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2019.01.07-05.47.18:834][794]LogDirectoryWatcher: A directory notification for 'E:/Unreal4/UE_4.18/FeaturePacks/' was aborted.
+[2019.01.07-05.47.18:835][794]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2019.01.07-05.47.18:835][794]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2019.01.07-05.47.18:835][794]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2019.01.07-05.47.18:835][794]LogDirectoryWatcher: A directory notification for 'J:/Odin/Odin/Content/Collections/' was aborted.
+[2019.01.07-05.47.18:836][794]LogDirectoryWatcher: A directory notification for 'J:/Odin/Odin/Content/Developers/Administrator/Collections/' was aborted.
+[2019.01.07-05.47.18:836][794]LogDirectoryWatcher: A directory notification for 'J:/Odin/Odin/Saved/Collections/' was aborted.
+[2019.01.07-05.47.18:836][794]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2019.01.07-05.47.18:836][794]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2019.01.07-05.47.18:836][794]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2019.01.07-05.47.18:836][794]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2019.01.07-05.47.18:836][794]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2019.01.07-05.47.18:836][794]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2019.01.07-05.47.18:836][794]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2019.01.07-05.47.18:836][794]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2019.01.07-05.47.18:836][794]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2019.01.07-05.47.18:837][794]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2019.01.07-05.47.18:838][794]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2019.01.07-05.47.18:838][794]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2019.01.07-05.47.18:838][794]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2019.01.07-05.47.18:838][794]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2019.01.07-05.47.19:698][794]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2019.01.07-05.47.19:698][794]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2019.01.07-05.47.19:698][794]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2019.01.07-05.47.19:698][794]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2019.01.07-05.47.19:698][794]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2019.01.07-05.47.19:698][794]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2019.01.07-05.47.19:699][794]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2019.01.07-05.47.19:743][794]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2019.01.07-05.47.19:743][794]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2019.01.07-05.47.19:743][794]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2019.01.07-05.47.19:743][794]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2019.01.07-05.47.19:743][794]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2019.01.07-05.47.19:743][794]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2019.01.07-05.47.19:743][794]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2019.01.07-05.47.19:743][794]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2019.01.07-05.47.19:743][794]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2019.01.07-05.47.19:743][794]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2019.01.07-05.47.19:751][794]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2019.01.07-05.47.19:751][794]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2019.01.07-05.47.19:752][794]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2019.01.07-05.47.19:850][794]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2019.01.07-05.47.19:851][794]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2019.01.07-05.47.19:852][794]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2019.01.07-05.47.19:852][794]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2019.01.07-05.47.19:853][794]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2019.01.07-05.47.19:854][794]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2019.01.07-05.47.19:854][794]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2019.01.07-05.47.19:854][794]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2019.01.07-05.47.19:854][794]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2019.01.07-05.47.19:854][794]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2019.01.07-05.47.19:854][794]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2019.01.07-05.47.19:854][794]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2019.01.07-05.47.19:854][794]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2019.01.07-05.47.19:955][794]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2019.01.07-05.47.20:056][794]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2019.01.07-05.47.20:056][794]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2019.01.07-05.47.20:056][794]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2019.01.07-05.47.20:056][794]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2019.01.07-05.47.20:056][794]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2019.01.07-05.47.20:056][794]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2019.01.07-05.47.20:057][794]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.01.07-05.47.20:057][794]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2019.01.07-05.47.20:057][794]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2019.01.07-05.47.20:057][794]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2019.01.07-05.47.20:057][794]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2019.01.07-05.47.20:057][794]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.01.07-05.47.20:057][794]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.01.07-05.47.20:057][794]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.01.07-05.47.20:057][794]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.01.07-05.47.20:057][794]LogModuleManager: Shutting down and abandoning module Media (221)
+[2019.01.07-05.47.20:063][794]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2019.01.07-05.47.20:063][794]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2019.01.07-05.47.20:063][794]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2019.01.07-05.47.20:063][794]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2019.01.07-05.47.20:063][794]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2019.01.07-05.47.20:063][794]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2019.01.07-05.47.20:063][794]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2019.01.07-05.47.20:064][794]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2019.01.07-05.47.20:064][794]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2019.01.07-05.47.20:064][794]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2019.01.07-05.47.20:064][794]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2019.01.07-05.47.20:064][794]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2019.01.07-05.47.20:064][794]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2019.01.07-05.47.20:064][794]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2019.01.07-05.47.20:064][794]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2019.01.07-05.47.20:064][794]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2019.01.07-05.47.20:066][794]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.01.07-05.47.20:066][794]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.01.07-05.47.20:066][794]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.01.07-05.47.20:066][794]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.01.07-05.47.20:066][794]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.01.07-05.47.20:066][794]LogModuleManager: Shutting down and abandoning module Core (172)
+[2019.01.07-05.47.20:066][794]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2019.01.07-05.47.20:066][794]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2019.01.07-05.47.20:067][794]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2019.01.07-05.47.20:067][794]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2019.01.07-05.47.20:067][794]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2019.01.07-05.47.20:067][794]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2019.01.07-05.47.20:067][794]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2019.01.07-05.47.20:067][794]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2019.01.07-05.47.20:067][794]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2019.01.07-05.47.20:067][794]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2019.01.07-05.47.20:067][794]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2019.01.07-05.47.20:071][794]LogDerivedDataCache: Shutdown
+[2019.01.07-05.47.20:071][794]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2019.01.07-05.47.20:071][794]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2019.01.07-05.47.20:071][794]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2019.01.07-05.47.20:071][794]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2019.01.07-05.47.20:071][794]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2019.01.07-05.47.20:071][794]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2019.01.07-05.47.20:071][794]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.01.07-05.47.20:072][794]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.01.07-05.47.20:073][794]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.01.07-05.47.20:073][794]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.07-05.47.20:073][794]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B93378D50-4EEB-4D9E-5393-4FA21FBED0FE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=296a1f0049f915eb6cc4ff81ee48babf%7C412d700e668d46d48ad8c92d70c97375%7C009cc6d6-ce20-4ff3-80ae-18e1913c419b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.07-05.47.20:102][794]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.01.07-05.47.20:103][794]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.07-05.47.20:104][794]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.07-05.47.20:104][794]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.07-05.47.20:104][794]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.07-05.47.20:104][794]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.07-05.47.20:104][794]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.07-05.47.20:104][794]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.07-05.47.20:107][794]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.07-05.47.20:107][794]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.07-05.47.20:107][794]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.07-05.47.20:107][794]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.07-05.47.20:107][794]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.07-05.47.20:107][794]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.07-05.47.20:107][794]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.07-05.47.20:107][794]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.07-05.47.20:107][794]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.07-05.47.20:107][794]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.07-05.47.20:107][794]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.07-05.47.20:112][794]LogExit: Exiting.
+[2019.01.07-05.47.20:121][794]Log file closed, 01/07/19 13:47:20
