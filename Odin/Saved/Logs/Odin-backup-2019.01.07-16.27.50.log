@@ -1,0 +1,1578 @@
+﻿Log file open, 01/07/19 13:47:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Odin
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1175396710) SRandInit(-1175396710).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.195154
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/Unreal4/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.07-05.47.27:120][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.07-05.47.27:120][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.07-05.47.27:129][  0]LogInit: Computer: USERUSE-6DRORO9
+[2019.01.07-05.47.27:129][  0]LogInit: User: Administrator
+[2019.01.07-05.47.27:130][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.07-05.47.27:130][  0]LogInit: High frequency timer resolution =3.312647 MHz
+[2019.01.07-05.47.27:130][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.07-05.47.27:130][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.07-05.47.27:130][  0]LogMemory: Process Physical Memory: 273.61 MB used, 273.61 MB peak
+[2019.01.07-05.47.27:130][  0]LogMemory: Process Virtual Memory: 271.93 MB used, 271.93 MB peak
+[2019.01.07-05.47.27:130][  0]LogMemory: Physical Memory: 3837.88 MB used,  12497.78 MB free, 16335.66 MB total
+[2019.01.07-05.47.27:130][  0]LogMemory: Virtual Memory: 645.14 MB used,  12497.78 MB free, 134217728.00 MB total
+[2019.01.07-05.47.27:540][  0]LogInit: Using OS detected language (zh-CN).
+[2019.01.07-05.47.27:540][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.01.07-05.47.27:692][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.07-05.47.28:237][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.07-05.47.28:338][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.01.07-05.47.28:338][  0]LogD3D11RHI:       2990/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.07-05.47.28:341][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.07-05.47.28:341][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.07-05.47.28:341][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.07-05.47.28:347][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.07-05.47.28:347][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.07-05.47.28:347][  0]LogWindows: EnumDisplayDevices:
+[2019.01.07-05.47.28:348][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.01.07-05.47.28:350][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.01.07-05.47.28:352][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.01.07-05.47.28:354][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.01.07-05.47.28:355][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.07-05.47.28:355][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.01.07-05.47.28:355][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2019.01.07-05.47.28:355][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2019.01.07-05.47.28:355][  0]LogRHI: Texture pool is 2093 MB (70% of 2990 MB)
+[2019.01.07-05.47.28:402][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.07-05.47.28:425][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.07-05.47.28:431][  0]LogShaderCompilers: Guid format shader working directory is 42 characters bigger than the processId version (J:/Odin/Odin/Intermediate/Shaders/WorkingDirectory/7216/).
+[2019.01.07-05.47.28:432][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/15D0B17C47B544D12B210B94B0749F85/'.
+[2019.01.07-05.47.28:432][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.07-05.47.29:744][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.07-05.47.29:804][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.07-05.47.29:858][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.07-05.47.29:914][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.07-05.47.29:970][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.07-05.47.30:025][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.07-05.47.30:081][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.07-05.47.30:136][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.07-05.47.30:185][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.07-05.47.30:239][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.01.07-05.47.30:293][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.01.07-05.47.30:347][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.01.07-05.47.30:402][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.01.07-05.47.30:460][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.01.07-05.47.30:574][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.01.07-05.47.30:574][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.01.07-05.47.30:630][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.07-05.47.30:675][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.07-05.47.30:766][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.07-05.47.30:799][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.07-05.47.30:853][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.07-05.47.30:908][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.07-05.47.30:961][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.07-05.47.31:016][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.07-05.47.31:016][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.07-05.47.31:637][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.07-05.47.31:784][  0]LogDerivedDataCache: Loaded boot cache 0.15s 92MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.01.07-05.47.31:784][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.01.07-05.47.31:784][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file J:/Odin/Odin/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.07-05.47.31:784][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.07-05.47.31:784][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file J:/Odin/Odin/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.07-05.47.31:784][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.07-05.47.31:802][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.07-05.47.31:817][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.07-05.47.31:829][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.07-05.47.31:830][  0]LogSlate: Using Freetype 2.6.0
+[2019.01.07-05.47.31:831][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.07-05.47.31:831][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.07-05.47.32:321][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.07-05.47.32:628][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.07-05.47.32:673][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.07-05.47.32:673][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.07-05.47.32:673][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.07-05.47.32:673][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.01.07-05.47.32:673][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.01.07-05.47.32:830][  0]LogNetVersion: Odin , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2190675332)
+[2019.01.07-05.47.33:043][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2019.01.07-05.47.33:853][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 4 prioritized culture(s) in 0.159689 seconds
+[2019.01.07-05.47.33:862][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2019.01.07-05.47.33:862][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2019.01.07-05.47.33:862][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.07-05.47.33:911][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.01.07-05.47.37:448][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.07-05.47.37:507][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.07-05.47.38:405][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.01.07-05.47.38:979][  0]SourceControl: 源码控制已禁用
+[2019.01.07-05.47.38:979][  0]SourceControl: 源码控制已禁用
+[2019.01.07-05.47.39:052][  0]SourceControl: 源码控制已禁用
+[2019.01.07-05.47.39:127][  0]SourceControl: 源码控制已禁用
+[2019.01.07-05.47.40:283][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.07-05.47.40:664][  0]LogOcInput: OculusInput pre-init called
+[2019.01.07-05.47.41:033][  0]LogEngine: Initializing Engine...
+[2019.01.07-05.47.41:072][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.01.07-05.47.41:413][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.07-05.47.41:413][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.07-05.47.41:564][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.07-05.47.41:614][  0]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.07-05.47.41:704][  0]LogInit: FAudioDevice initialized.
+[2019.01.07-05.47.41:908][  0]LogDerivedDataCache: Saved boot cache 0.20s 80MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.01.07-05.47.41:934][  0]LogInit: Texture streaming: Enabled
+[2019.01.07-05.47.42:047][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.07-05.47.42:183][  0]LogInit: Transaction tracking system initialized
+[2019.01.07-05.47.42:526][  0]BlueprintLog: New page: 编辑器加载
+[2019.01.07-05.47.43:477][  0]LocalizationService: 本地化服务已被禁用
+[2019.01.07-05.47.44:302][  0]LogConsoleResponse: Display: 
+[2019.01.07-05.47.44:562][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.07-05.47.44:562][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.07-05.47.44:563][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.07-05.47.45:706][  0]LogFileCache: Scanning file cache for directory 'J:/Odin/Odin/Content/' took 0.02s
+[2019.01.07-05.47.46:117][  0]SourceControl: 源码控制已禁用
+[2019.01.07-05.47.46:117][  0]Cmd: MAP LOAD FILE="J:/Odin/Odin/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.07-05.47.46:118][  0]LightingResults: New page: 光照构建
+[2019.01.07-05.47.46:165][  0]MapCheck: New page: 地图检测
+[2019.01.07-05.47.46:165][  0]LightingResults: New page: 光照构建
+[2019.01.07-05.47.46:684][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.07-05.47.46:697][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.07-05.47.46:716][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.07-05.47.46:822][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时105.837毫秒完成。
+[2019.01.07-05.47.46:822][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.705
+[2019.01.07-05.47.46:990][  0]LogCollectionManager: Loaded 0 collections in 0.003112 seconds
+[2019.01.07-05.47.47:083][  0]LogFileCache: Scanning file cache for directory 'J:/Odin/Odin/Saved/Collections/' took 0.01s
+[2019.01.07-05.47.47:083][  0]LogFileCache: Scanning file cache for directory 'J:/Odin/Odin/Content/Developers/Administrator/Collections/' took 0.01s
+[2019.01.07-05.47.47:083][  0]LogFileCache: Scanning file cache for directory 'J:/Odin/Odin/Content/Collections/' took 0.01s
+[2019.01.07-05.47.47:083][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.07-05.47.47:092][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2363 classes and 519 folders.
+[2019.01.07-05.47.47:161][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.07-05.47.47:249][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.07-05.47.47:304][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.07-05.47.47:396][  0]LogSlate: Took 0.000473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.07-05.47.47:403][  0]LogSlate: Took 0.005287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.01.07-05.47.47:404][  0]LogSlate: Took 0.000537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.07-05.47.47:412][  0]LogSlate: Took 0.000525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.07-05.47.47:535][  0]LogRenderer: Reallocating scene render targets to support 1616x576 Format 10 NumSamples 1 (Frame:1).
+[2019.01.07-05.47.47:776][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.07-05.47.47:776][  0]LogLoad: (Engine Initialization) Total time: 24.60 seconds
+[2019.01.07-05.47.47:776][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.07-05.47.47:777][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2019.01.07-05.47.47:777][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2019.01.07-05.47.48:141][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.07-05.47.48:198][  0]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.01.07-05.47.48:461][  1]LogAssetRegistry: Asset discovery search completed in 15.4407 seconds
+[2019.01.07-05.47.48:464][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.07-05.47.48:464][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2019.01.07-05.48.36:577][314]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.01.07-05.48.44:126][ 91]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.07-05.48.44:449][ 91]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.07-05.49.09:488][433]LogMaterial: Missing cached shader map for material StoneKing1, compiling. 
+[2019.01.07-05.49.09:623][433]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.07-05.49.09:945][433]LogSlate: Took 0.000481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.07-05.49.09:955][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.07-05.49.10:699][433]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.01.07-05.49.10:713][433]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.01.07-05.49.17:726][712]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Attack1.StoneKing_Attack1
+[2019.01.07-05.49.17:726][712]LogAnimationCompression: Recompressing (AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Attack1.StoneKing_Attack1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.07-05.49.17:728][712]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Attack2.StoneKing_Attack2
+[2019.01.07-05.49.17:728][712]LogAnimationCompression: Recompressing (AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Attack2.StoneKing_Attack2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.07-05.49.17:730][712]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Attack4.StoneKing_Attack4
+[2019.01.07-05.49.17:730][712]LogAnimationCompression: Recompressing (AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Attack4.StoneKing_Attack4) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.07-05.49.17:753][712]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Attack3-3.StoneKing_Attack3-3
+[2019.01.07-05.49.17:753][712]LogAnimationCompression: Recompressing (AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Attack3-3.StoneKing_Attack3-3) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.07-05.49.17:778][712]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Attack3-1.StoneKing_Attack3-1
+[2019.01.07-05.49.17:778][712]LogAnimationCompression: Recompressing (AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Attack3-1.StoneKing_Attack3-1) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.07-05.49.17:808][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2019.01.07-05.49.18:231][712]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.01.07-05.52.13:282][465]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2019.01.07-05.52.14:097][465]LogSlate: Took 0.000495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.07-05.53.25:118][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:118][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:119][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:119][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:120][833]LogLinker: Warning: 无法寻找到文件'/Game/NewFantasy/GameSetting/FantasyPlayerState'
+[2019.01.07-05.53.25:120][833]LogLinker: Warning: 无法在加载J:/Odin/Odin/Content/NewFantasy/BluePrints/Fantasy_PlayerController.uasset时寻找到资源'/Game/NewFantasy/GameSetting/FantasyPlayerState'的文件。
+[2019.01.07-05.53.25:120][833]LoadErrors: Error: /Game/NewFantasy/BluePrints/Fantasy_PlayerController : 无法寻找到资源的文件。 /Game/NewFantasy/GameSetting/FantasyPlayerState
+[2019.01.07-05.53.25:122][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:122][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:123][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:123][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:123][833]LogLinker: Warning: 无法寻找到文件'/Game/NewFantasy/GameSetting/FantasyPlayerState'
+[2019.01.07-05.53.25:123][833]LogLinker: Warning: 无法在加载J:/Odin/Odin/Content/NewFantasy/BluePrints/Fantasy_PlayerController.uasset时寻找到资源'/Game/NewFantasy/GameSetting/FantasyPlayerState'的文件。
+[2019.01.07-05.53.25:126][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:126][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:127][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:127][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:127][833]LogLinker: Warning: 无法寻找到文件'/Game/NewFantasy/GameSetting/FantasyPlayerState'
+[2019.01.07-05.53.25:127][833]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/NewFantasy/GameSetting/FantasyPlayerState'的文件。
+[2019.01.07-05.53.25:128][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:128][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:129][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:129][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:130][833]LogLinker: Warning: 无法寻找到文件'/Game/NewFantasy/GameSetting/FantasyPlayerState'
+[2019.01.07-05.53.25:130][833]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/NewFantasy/GameSetting/FantasyPlayerState'的文件。
+[2019.01.07-05.53.25:131][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:131][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:132][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:132][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:133][833]LogLinker: Warning: 无法寻找到文件'/Game/NewFantasy/GameSetting/FantasyPlayerState'
+[2019.01.07-05.53.25:133][833]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/NewFantasy/GameSetting/FantasyPlayerState'的文件。
+[2019.01.07-05.53.25:134][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:134][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:135][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:135][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:136][833]LogLinker: Warning: 无法寻找到文件'/Game/NewFantasy/GameSetting/FantasyPlayerState'
+[2019.01.07-05.53.25:136][833]LoadErrors: 加载失败 /Game/NewFantasy/GameSetting/FantasyPlayerState.FantasyPlayerState_C 引用者 Fantasy_PlayerController
+[2019.01.07-05.53.25:136][833]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/NewFantasy/GameSetting/FantasyPlayerState'的文件。
+[2019.01.07-05.53.25:138][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:138][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:139][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:139][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:141][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:141][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:142][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:142][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:142][833]LogLinker: Warning: 无法寻找到文件'/Game/NewFantasy/GameSetting/FantasyPlayerState'
+[2019.01.07-05.53.25:142][833]LoadErrors: 加载失败 /Game/NewFantasy/GameSetting/FantasyPlayerState.FantasyPlayerState_C 引用者 K2Node_VariableSet_3957
+[2019.01.07-05.53.25:143][833]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/NewFantasy/GameSetting/FantasyPlayerState'的文件。
+[2019.01.07-05.53.25:143][833]LogLinker: Warning: 无法寻找到文件'/Game/NewFantasy/GameSetting/FantasyPlayerState'
+[2019.01.07-05.53.25:143][833]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/NewFantasy/GameSetting/FantasyPlayerState'的文件。
+[2019.01.07-05.53.25:144][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:145][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:145][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:145][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:147][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:147][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:148][833]LogLinker: Warning: Asset 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.07-05.53.25:148][833]LogLinker: Warning: Unable to load package (J:/Odin/Odin/Content/NewFantasy/BluePrints/Player_BP.uasset) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2019.01.07-05.53.25:148][833]LogLinker: Warning: 无法寻找到文件'/Game/NewFantasy/GameSetting/FantasyPlayerState'
+[2019.01.07-05.53.25:148][833]LoadErrors: 加载失败 /Game/NewFantasy/GameSetting/FantasyPlayerState.FantasyPlayerState_C 引用者 K2Node_DynamicCast_8
+[2019.01.07-05.53.25:148][833]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/NewFantasy/GameSetting/FantasyPlayerState'的文件。
+[2019.01.07-05.53.25:149][833]LogLinker: Warning: 无法寻找到文件'/Game/NewFantasy/GameSetting/FantasyPlayerState'
+[2019.01.07-05.53.25:149][833]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/NewFantasy/GameSetting/FantasyPlayerState'的文件。
+[2019.01.07-05.53.25:152][833]LogBlueprint: Error: [Compiler Fantasy_PlayerController] 不能连接引脚 Object 和 Player State : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.01.07-05.53.25:152][833]LogBlueprint: Error: [Compiler Fantasy_PlayerController] In use pin  As Fantasy Player State  no longer exists on node  坏的类型转换节点 . Please refresh node or break links to remove pin.
+[2019.01.07-05.53.25:152][833]LogBlueprint: Error: [Compiler Fantasy_PlayerController] 不能连接引脚 Player State 和 Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.01.07-05.53.25:152][833]LogBlueprint: Error: [Compiler Fantasy_PlayerController] In use pin  My Player BP  no longer exists on node  设置 . Please refresh node or break links to remove pin.
+[2019.01.07-05.53.25:152][833]LogBlueprint: Error: [Compiler Fantasy_PlayerController] In use pin  <Unnamed>  no longer exists on node  设置 . Please refresh node or break links to remove pin.
+[2019.01.07-05.53.25:152][833]LogBlueprint: Error: [Compiler Fantasy_PlayerController] 不能连接引脚 Return Value 和 Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.01.07-05.53.25:152][833]LogBlueprint: Error: [Compiler Fantasy_PlayerController] In use pin  My Player State  no longer exists on node  设置 . Please refresh node or break links to remove pin.
+[2019.01.07-05.53.25:152][833]LogBlueprint: Error: [Compiler Fantasy_PlayerController] 不能连接引脚 Object 和 Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2019.01.07-05.53.25:152][833]LogBlueprint: Error: [Compiler Fantasy_PlayerController] In use pin  As Player BP  no longer exists on node  坏的类型转换节点 . Please refresh node or break links to remove pin.
+[2019.01.07-05.53.25:154][833]LogBlueprint: Warning: [Compiler Fantasy_PlayerController] [0361.98] Compile of Fantasy_PlayerController failed. 9 Fatal Issue(s) 0 Warning(s) [in 4 ms] (/Game/NewFantasy/BluePrints/Fantasy_PlayerController.Fantasy_PlayerController)
+[2019.01.07-05.53.25:754][834]LogSlate: Took 0.000489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.07-06.02.51:414][848]LogTemp: Repeating last play command: 选中的视口
+[2019.01.07-06.02.51:677][848]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.07-06.02.51:677][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.07-06.03.16:855][407]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.07-06.03.16:934][407]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.07-06.03.41:722][896]BlueprintLog: New page: 编译Fantasy_PlayerController
+[2019.01.07-06.03.44:093][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Fantasy_PlayerController" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Fantasy_PlayerController.uasset" SILENT=true
+[2019.01.07-06.03.44:121][990]LogSavePackage: Save=21.21ms
+[2019.01.07-06.03.44:121][990]LogSavePackage: Moving 'J:/Odin/Odin/Saved/Fantasy_PlayerController7DA00903467F593CD8083CB440EE1111.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Fantasy_PlayerController.uasset'
+[2019.01.07-06.03.44:125][990]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Fantasy_PlayerController.uasset
+[2019.01.07-06.04.01:235][906]LogTemp: Repeating last play command: 选中的视口
+[2019.01.07-06.04.01:254][906]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.07-06.04.01:255][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.07-06.04.01:256][906]PIE: New page: PIE会话: ThirdPersonExampleMap (2019年1月7日 下午10:04:01)
+[2019.01.07-06.04.01:256][906]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.07-06.04.01:309][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053088s)
+[2019.01.07-06.04.01:311][906]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.07-06.04.01:311][906]LogPlayLevel: PIE: World Init took: (0.001950s)
+[2019.01.07-06.04.01:312][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.056207s)
+[2019.01.07-06.04.01:413][906]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.07-06.04.01:475][906]LogInit: FAudioDevice initialized.
+[2019.01.07-06.04.01:541][906]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.07-06.04.01:548][906]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.07-14.04.01
+[2019.01.07-06.04.01:549][906]LogWorld: Bringing up level for play took: 0.007359
+[2019.01.07-06.04.01:609][906]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2019.01.07-06.04.01:611][906]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap的‘在编辑器中播放’的起始时间0.033
+[2019.01.07-06.04.01:611][906]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.07-06.04.03:012][ 13]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.07-06.04.03:053][ 13]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.07-06.08.30:451][ 59]LogTemp: Repeating last play command: 选中的视口
+[2019.01.07-06.08.30:464][ 59]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.07-06.08.30:464][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.07-06.08.30:464][ 59]PIE: New page: PIE会话: ThirdPersonExampleMap (2019年1月7日 下午10:08:30)
+[2019.01.07-06.08.30:465][ 59]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.07-06.08.30:497][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032602s)
+[2019.01.07-06.08.30:499][ 59]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.07-06.08.30:499][ 59]LogPlayLevel: PIE: World Init took: (0.002069s)
+[2019.01.07-06.08.30:500][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035415s)
+[2019.01.07-06.08.30:578][ 59]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.07-06.08.30:620][ 59]LogInit: FAudioDevice initialized.
+[2019.01.07-06.08.30:654][ 59]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.07-06.08.30:659][ 59]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.07-14.08.30
+[2019.01.07-06.08.30:660][ 59]LogWorld: Bringing up level for play took: 0.003796
+[2019.01.07-06.08.30:661][ 59]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap的‘在编辑器中播放’的起始时间1.083
+[2019.01.07-06.08.30:662][ 59]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.07-06.08.35:235][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.07-06.08.35:277][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.07-06.09.15:418][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinController" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinController.uasset" SILENT=true
+[2019.01.07-06.09.15:432][697]LogSavePackage: Save=9.90ms
+[2019.01.07-06.09.15:432][697]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinController7B63BA5A463F655EEBEF498F15A63E42.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinController.uasset'
+[2019.01.07-06.09.15:435][697]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinController.uasset
+[2019.01.07-06.09.44:938][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.09.44:957][824]LogSavePackage: Save=16.52ms
+[2019.01.07-06.09.44:957][824]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacter090CAB834379EC15BE9BACABC00813A9.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.09.44:961][824]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.09.49:236][152]LogRenderer: Reallocating scene render targets to support 1616x712 Format 10 NumSamples 1 (Frame:1).
+[2019.01.07-06.10.08:527][667]LogSlate: Took 0.000384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.01.07-06.10.10:132][741]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:149][741]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:198][742]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:220][743]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:239][744]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:256][745]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:277][746]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:299][747]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:317][748]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:337][749]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:361][750]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:381][751]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:401][752]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:425][753]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:445][754]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:467][755]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:488][756]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:506][757]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:524][758]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:543][759]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:564][760]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:583][761]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:601][762]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:620][763]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:639][764]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:658][765]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:677][766]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:696][767]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:718][768]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:736][769]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:754][770]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:772][771]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:790][772]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:807][773]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:825][774]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:842][775]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:860][776]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:877][777]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:895][778]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:914][779]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:932][780]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:951][781]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:969][782]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.10:987][783]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:007][784]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:028][785]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:051][786]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:072][787]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:093][788]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:118][789]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:140][790]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:158][791]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:176][792]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:195][793]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:213][794]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:231][795]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:252][796]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:273][797]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:295][798]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:316][799]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:337][800]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:356][801]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:381][802]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:401][803]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:422][804]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:441][805]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:458][806]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:476][807]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:497][808]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:516][809]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:534][810]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:555][811]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:573][812]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:616][813]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:656][814]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:657][814]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:680][815]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:702][816]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:721][817]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:742][818]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:834][822]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:854][823]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:883][824]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:905][825]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:925][826]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:950][827]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:971][828]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.11:993][829]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:013][830]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:035][831]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:061][832]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:085][833]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:107][834]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:128][835]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:150][836]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:175][837]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:197][838]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:218][839]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:240][840]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:265][841]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:285][842]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:306][843]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:325][844]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:344][845]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:363][846]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:394][847]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:418][848]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:440][849]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.12:459][850]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:376][941]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:644][953]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:666][954]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:690][955]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:711][956]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:759][958]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:781][959]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:801][960]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:828][961]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:851][962]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:880][963]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:904][964]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:927][965]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:948][966]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:968][967]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.14:993][968]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:011][969]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:030][970]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:050][971]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:070][972]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:091][973]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:111][974]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:135][975]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:158][976]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:186][977]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:211][978]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:231][979]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:253][980]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:274][981]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:299][982]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:328][983]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:350][984]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:373][985]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:391][986]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.15:412][987]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.10.20:371][240]BlueprintLog: New page: 编译OdinChacter
+[2019.01.07-06.10.28:829][662]BlueprintLog: New page: 编译OdinChacter
+[2019.01.07-06.10.29:680][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.10.29:705][685]LogSavePackage: Save=20.66ms
+[2019.01.07-06.10.29:705][685]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacter93EF0DAA41408FFE874BDAAFAB297E42.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.10.29:709][685]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.10.50:740][823]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.07-06.10.54:236][ 19]BlueprintLog: New page: 编译OdinChacter
+[2019.01.07-06.10.55:128][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.10.55:158][ 42]LogSavePackage: Save=26.18ms
+[2019.01.07-06.10.55:158][ 42]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacterC818CC4A4EF18019383128A4BEDB2DEA.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.10.55:162][ 42]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.12.32:750][287]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.01.07-06.12.46:342][282]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2019.01.07-06.12.47:025][282]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.01.07-06.12.48:379][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/OddinAnim" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset" SILENT=true
+[2019.01.07-06.12.48:395][350]LogSavePackage: Save=14.66ms
+[2019.01.07-06.12.48:395][350]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OddinAnimB6CD32994F70F87719FF459D97CD35B4.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset'
+[2019.01.07-06.12.48:399][350]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset
+[2019.01.07-06.14.14:584][507]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2019.01.07-06.14.14:851][507]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2019.01.07-06.14.15:376][507]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.01.07-06.18.23:505][322]LogSlate: Took 0.005519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.01.07-06.19.10:915][917]BlueprintLog: New page: 编译OddinAnim
+[2019.01.07-06.19.10:942][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.10:943][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:142][917]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:197][918]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:242][919]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:272][920]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:295][921]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:322][922]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:349][923]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:372][924]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:395][925]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:416][926]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:446][927]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:478][928]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:499][929]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:522][930]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:546][931]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:574][932]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0040
+[2019.01.07-06.19.11:726][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/OddinAnim" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset" SILENT=true
+[2019.01.07-06.19.11:751][937]LogSavePackage: Save=19.64ms
+[2019.01.07-06.19.11:751][937]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OddinAnimFBDA0DB14C203A9EF65EA7951DFC77FC.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset'
+[2019.01.07-06.19.11:755][937]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset
+[2019.01.07-06.19.18:249][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/OddinAnim" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset" SILENT=true
+[2019.01.07-06.19.18:270][190]LogSavePackage: Save=17.45ms
+[2019.01.07-06.19.18:270][190]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OddinAnim6F6AC2A1496DF7D32BCC8DAB28BD399A.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset'
+[2019.01.07-06.19.18:274][190]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset
+[2019.01.07-06.20.44:576][768]BlueprintLog: New page: 编译OddinAnim
+[2019.01.07-06.20.44:586][768]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.OddinAnim_C_0
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:00CC
+[2019.01.07-06.20.44:586][768]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.OddinAnim_C_0
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0036
+[2019.01.07-06.20.44:586][768]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OddinAnim_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.OddinAnim_C_0
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0064
+[2019.01.07-06.20.44:587][768]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:00CC
+[2019.01.07-06.20.44:587][768]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0036
+[2019.01.07-06.20.44:587][768]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0064
+[2019.01.07-06.20.44:762][768]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:00CC
+[2019.01.07-06.20.44:763][768]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0036
+[2019.01.07-06.20.44:763][768]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0064
+[2019.01.07-06.20.44:826][769]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:00CC
+[2019.01.07-06.20.44:826][769]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0036
+[2019.01.07-06.20.44:826][769]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0064
+[2019.01.07-06.20.44:851][770]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:00CC
+[2019.01.07-06.20.44:852][770]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0036
+[2019.01.07-06.20.44:852][770]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0064
+[2019.01.07-06.20.44:873][771]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:00CC
+[2019.01.07-06.20.44:874][771]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0036
+[2019.01.07-06.20.44:874][771]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0064
+[2019.01.07-06.20.44:898][772]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OddinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:00CC
+[2019.01.07-06.20.45:300][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/OddinAnim" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset" SILENT=true
+[2019.01.07-06.20.45:333][787]LogSavePackage: Save=29.17ms
+[2019.01.07-06.20.45:333][787]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OddinAnim4F2B03D4469517F28888D9A96E309CEE.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset'
+[2019.01.07-06.20.45:337][787]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset
+[2019.01.07-06.21.29:106][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.055
+[2019.01.07-06.21.29:159][386]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2019.01.07-06.21.29:173][386]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2019.01.07-06.21.29:173][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2019.01.07-06.21.29:173][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_AnimBP" FILE="J:/Odin/Odin/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.01.07-06.21.29:286][386]LogSavePackage: Save=108.33ms
+[2019.01.07-06.21.29:286][386]LogSavePackage: Moving 'J:/Odin/Odin/Saved/ThirdPerson_AnimBP_Auto1746A4B5146E79F7EECD25F8CB78E3865.tmp' to 'J:/Odin/Odin/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto1.uasset'
+[2019.01.07-06.21.29:288][386]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto1.uasset
+[2019.01.07-06.21.29:288][386]LogFileHelpers: Auto-saving content packages took 0.180
+[2019.01.07-06.22.36:946][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/OddinAnim" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset" SILENT=true
+[2019.01.07-06.22.36:980][509]LogSavePackage: Save=29.59ms
+[2019.01.07-06.22.36:980][509]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OddinAnimB0DF32444DA0612DD647738F4E14D737.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset'
+[2019.01.07-06.22.36:984][509]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset
+[2019.01.07-06.22.38:738][588]BlueprintLog: New page: 编译OddinAnim
+[2019.01.07-06.22.38:771][588]LogBlueprint: Warning: [Compiler OddinAnim] 入口节点 Base 没有被连接到状态上
+[2019.01.07-06.22.38:772][588]LogBlueprint: Warning: [Compiler OddinAnim] 在 Base 中没有入口状态连接
+[2019.01.07-06.22.38:936][588]LogBlueprint: Warning: [Compiler OddinAnim] [2115.76] Compile of OddinAnim successful, but with 2 Warning(s) [in 197 ms] (/Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim)
+[2019.01.07-06.22.39:492][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/OddinAnim" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset" SILENT=true
+[2019.01.07-06.22.39:526][607]LogSavePackage: Save=30.47ms
+[2019.01.07-06.22.39:526][607]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OddinAnim0324F97044CD089C91B39690B4A219A9.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset'
+[2019.01.07-06.22.39:528][607]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset
+[2019.01.07-06.23.44:560][706]BlueprintLog: New page: 编译OddinAnim
+[2019.01.07-06.23.44:571][706]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.OddinAnim_C_0
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:00CC
+[2019.01.07-06.23.44:572][706]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OddinAnim_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.OddinAnim_C_0
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0036
+[2019.01.07-06.23.44:572][706]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OddinAnim_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.OddinAnim_C_0
+	Function /Game/NewFantasy/Anim_BP/OddinAnim.OddinAnim_C:ExecuteUbergraph_OddinAnim:0064
+[2019.01.07-06.23.45:448][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/OddinAnim" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset" SILENT=true
+[2019.01.07-06.23.45:485][738]LogSavePackage: Save=32.52ms
+[2019.01.07-06.23.45:485][738]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OddinAnim9FBBE2F14CA800F6276E0D98496F48FD.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset'
+[2019.01.07-06.23.45:488][738]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset
+[2019.01.07-06.24.23:236][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Death.StoneKing_Death
+[2019.01.07-06.24.23:237][483]LogAnimationCompression: Recompressing (AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Death.StoneKing_Death) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.07-06.24.24:438][538]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_JumpLoop.StoneKing_JumpLoop
+[2019.01.07-06.24.24:438][538]LogAnimationCompression: Recompressing (AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_JumpLoop.StoneKing_JumpLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.07-06.24.24:500][540]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Jump_Start.StoneKing_Jump_Start
+[2019.01.07-06.24.24:500][540]LogAnimationCompression: Recompressing (AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Jump_Start.StoneKing_Jump_Start) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.07-06.24.24:542][541]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Jump_End.StoneKing_Jump_End
+[2019.01.07-06.24.24:542][541]LogAnimationCompression: Recompressing (AnimSequence /Game/NewFantasy/Assets/PlayerAssets/StoneKing_Jump_End.StoneKing_Jump_End) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.07-06.24.31:106][823]BlueprintLog: New page: 编译OddinAnim
+[2019.01.07-06.24.31:743][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/OddinAnim" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset" SILENT=true
+[2019.01.07-06.24.31:785][839]LogSavePackage: Save=36.57ms
+[2019.01.07-06.24.31:785][839]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OddinAnim870A7AE24DD7EAAC810F71B65EFFCEEA.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset'
+[2019.01.07-06.24.31:788][839]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset
+[2019.01.07-06.24.35:003][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/OddinAnim" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset" SILENT=true
+[2019.01.07-06.24.35:041][976]LogSavePackage: Save=34.61ms
+[2019.01.07-06.24.35:041][976]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OddinAnimA50EB09D4DE045501A07A08EA36C6775.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset'
+[2019.01.07-06.24.35:045][976]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset
+[2019.01.07-06.25.49:928][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/OddinAnim" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset" SILENT=true
+[2019.01.07-06.25.49:966][241]LogSavePackage: Save=34.61ms
+[2019.01.07-06.25.49:966][241]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OddinAnimAA2665D94C7F83B4C9F4B89C9B4C7A3A.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset'
+[2019.01.07-06.25.49:970][241]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/OddinAnim.uasset
+[2019.01.07-06.26.17:873][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2019.01.07-06.26.18:357][ 26]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.01.07-06.27.57:334][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.OdinAnim_C_0
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.27.57:334][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.OdinAnim_C_0
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.27.57:334][492]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.OdinAnim_C_0
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0064
+[2019.01.07-06.27.57:335][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.27.57:335][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.27.57:335][492]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0064
+[2019.01.07-06.27.57:550][492]LogMetaData: Removing '/Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/NewFantasy/Anim_BP/OddinAnim.PackageMetaData'
+[2019.01.07-06.27.57:551][492]LogMetaData: Removing '/Game/NewFantasy/Anim_BP/OdinAnim.SKEL_OdinAnim_C' ref from Metadata '/Game/NewFantasy/Anim_BP/OddinAnim.PackageMetaData'
+[2019.01.07-06.27.57:551][492]LogMetaData: Removing '/Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C' ref from Metadata '/Game/NewFantasy/Anim_BP/OddinAnim.PackageMetaData'
+[2019.01.07-06.27.57:551][492]LogMetaData: Removing '/Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim:EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewFantasy/Anim_BP/OddinAnim.PackageMetaData'
+[2019.01.07-06.27.57:551][492]LogMetaData: Removing '/Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim:AnimGraph.AnimGraphNode_StateMachine_0.Base.AnimStateEntryNode_0' ref from Metadata '/Game/NewFantasy/Anim_BP/OddinAnim.PackageMetaData'
+[2019.01.07-06.27.57:551][492]LogMetaData: Removing '/Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim:AnimGraph.AnimGraphNode_StateMachine_0.Base.AnimStateNode_0.Idle/Run.AnimGraphNode_StateResult_0' ref from Metadata '/Game/NewFantasy/Anim_BP/OddinAnim.PackageMetaData'
+[2019.01.07-06.27.57:606][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_4.SkeletalMeshComponent0.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.27.57:607][492]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_4.SkeletalMeshComponent0.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.27.57:607][492]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_4.SkeletalMeshComponent0.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0064
+[2019.01.07-06.27.57:621][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/OdinAnim" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/OdinAnim.uasset" SILENT=true
+[2019.01.07-06.27.57:661][492]LogSavePackage: Save=38.07ms
+[2019.01.07-06.27.57:661][492]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinAnim31BEF613473FE20B5A7AC7A86C468011.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/OdinAnim.uasset'
+[2019.01.07-06.27.57:665][492]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/OdinAnim.uasset
+[2019.01.07-06.28.04:204][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/Odin" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/Odin.uasset" SILENT=true
+[2019.01.07-06.28.04:216][777]LogSavePackage: Save=9.78ms
+[2019.01.07-06.28.04:216][777]LogSavePackage: Moving 'J:/Odin/Odin/Saved/Odin66CF42E94F463AA3DC61AA98E39F7EE4.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/Odin.uasset'
+[2019.01.07-06.28.04:219][777]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/Odin.uasset
+[2019.01.07-06.29.05:769][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/Odin" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/Odin.uasset" SILENT=true
+[2019.01.07-06.29.05:784][737]LogSavePackage: Save=9.97ms
+[2019.01.07-06.29.05:784][737]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinE05B4F5F4BD5E08ACF535D935F8F0BAA.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/Odin.uasset'
+[2019.01.07-06.29.05:787][737]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/Odin.uasset
+[2019.01.07-06.29.24:907][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/Odin" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/Odin.uasset" SILENT=true
+[2019.01.07-06.29.24:921][562]LogSavePackage: Save=10.91ms
+[2019.01.07-06.29.24:921][562]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinEAD208994B903934C55582A9A4B498DF.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/Odin.uasset'
+[2019.01.07-06.29.24:925][562]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/Odin.uasset
+[2019.01.07-06.29.36:956][ 84]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.29.36:956][ 84]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.29.36:956][ 84]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0064
+[2019.01.07-06.29.36:977][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.29.36:977][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.29.36:977][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0064
+[2019.01.07-06.29.36:995][ 86]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.29.36:995][ 86]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.29.36:996][ 86]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0064
+[2019.01.07-06.29.37:019][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.29.37:019][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.29.37:019][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0064
+[2019.01.07-06.29.37:042][ 88]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.29.37:042][ 88]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_1
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.30.57:066][910]BlueprintLog: New page: 编译OdinAnim
+[2019.01.07-06.30.57:079][910]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_4.SkeletalMeshComponent0.OdinAnim_C_3
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.30.57:079][910]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_4.SkeletalMeshComponent0.OdinAnim_C_3
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.30.57:079][910]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_4.SkeletalMeshComponent0.OdinAnim_C_3
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0064
+[2019.01.07-06.30.57:079][910]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.30.57:079][910]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.30.57:079][910]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0064
+[2019.01.07-06.30.57:256][910]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.30.57:256][910]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.30.57:256][910]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0064
+[2019.01.07-06.30.57:294][911]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.30.57:294][911]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.30.57:294][911]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0064
+[2019.01.07-06.30.57:317][912]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.30.57:317][912]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.30.57:317][912]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0064
+[2019.01.07-06.30.57:337][913]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.30.57:337][913]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.30.57:337][913]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0064
+[2019.01.07-06.30.57:357][914]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00CC
+[2019.01.07-06.30.57:357][914]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_4
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0036
+[2019.01.07-06.30.58:271][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/OdinAnim" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/OdinAnim.uasset" SILENT=true
+[2019.01.07-06.30.58:315][958]LogSavePackage: Save=39.46ms
+[2019.01.07-06.30.58:315][958]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinAnim8853C1AB4A183E9591041D8443B6ACAC.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/OdinAnim.uasset'
+[2019.01.07-06.30.58:318][958]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/OdinAnim.uasset
+[2019.01.07-06.31.16:368][766]BlueprintLog: New page: 编译OdinAnim
+[2019.01.07-06.31.16:384][766]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.OdinAnim_C_0
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00F7
+[2019.01.07-06.31.16:384][766]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.OdinAnim_C_0
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0061
+[2019.01.07-06.31.16:384][766]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.OdinAnim_C_0
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:008F
+[2019.01.07-06.31.16:385][766]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00F7
+[2019.01.07-06.31.16:386][766]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0061
+[2019.01.07-06.31.16:386][766]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:008F
+[2019.01.07-06.31.16:555][766]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00F7
+[2019.01.07-06.31.16:555][766]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0061
+[2019.01.07-06.31.16:556][766]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:008F
+[2019.01.07-06.31.16:609][767]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00F7
+[2019.01.07-06.31.16:609][767]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0061
+[2019.01.07-06.31.16:609][767]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:008F
+[2019.01.07-06.31.16:641][768]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00F7
+[2019.01.07-06.31.16:641][768]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0061
+[2019.01.07-06.31.16:641][768]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:008F
+[2019.01.07-06.31.16:669][769]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:00F7
+[2019.01.07-06.31.16:669][769]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	OdinAnim_C /Engine/Transient.World_28:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.OdinAnim_C_2
+	Function /Game/NewFantasy/Anim_BP/OdinAnim.OdinAnim_C:ExecuteUbergraph_OdinAnim:0061
+[2019.01.07-06.31.17:096][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/Anim_BP/OdinAnim" FILE="J:/Odin/Odin/Content/NewFantasy/Anim_BP/OdinAnim.uasset" SILENT=true
+[2019.01.07-06.31.17:150][787]LogSavePackage: Save=49.73ms
+[2019.01.07-06.31.17:150][787]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinAnim5718F7E7452494A2EC5273913AFEC8D2.tmp' to 'J:/Odin/Odin/Content/NewFantasy/Anim_BP/OdinAnim.uasset'
+[2019.01.07-06.31.17:155][787]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/Anim_BP/OdinAnim.uasset
+[2019.01.07-06.32.09:094][100]LogBlueprint: Warning: [OdinChacter] 'BaseTurnRate' variable not found. Base class was probably changed. /Game/NewFantasy/BluePrints/Odin/OdinChacter.OdinChacter
+[2019.01.07-06.32.09:095][100]LogBlueprint: Warning: [OdinChacter] 'BaseLookUpRate' variable not found. Base class was probably changed. /Game/NewFantasy/BluePrints/Odin/OdinChacter.OdinChacter
+[2019.01.07-06.32.15:425][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.32.15:490][401]LogSavePackage: Save=60.10ms
+[2019.01.07-06.32.15:490][401]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacterC9368C774E6A7761E28760BFCB542CFE.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.32.15:494][401]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.33.20:073][286]BlueprintLog: New page: 编译OdinChacter
+[2019.01.07-06.33.20:103][286]LogBlueprint: Warning: [Compiler OdinChacter] Could not find a variable named "BaseLookUpRate" in 'OdinChacter_C'.
+Make sure 'OdinChacter_C' has been compiled for  获得BaseLookUpRate
+[2019.01.07-06.33.20:103][286]LogBlueprint: Warning: [Compiler OdinChacter] Could not find a variable named "BaseTurnRate" in 'OdinChacter_C'.
+Make sure 'OdinChacter_C' has been compiled for  获得BaseTurnRate
+[2019.01.07-06.33.20:108][286]LogBlueprint: Error: [Compiler OdinChacter] 没有找到和  Base Turn Rate 相关的属性
+[2019.01.07-06.33.20:109][286]LogBlueprint: Error: [Compiler OdinChacter] 没有找到和  Base Look Up Rate 相关的属性
+[2019.01.07-06.33.20:518][286]LogBlueprint: Warning: [Compiler OdinChacter] [2757.35] Compile of OdinChacter failed. 2 Fatal Issue(s) 2 Warning(s) [in 444 ms] (/Game/NewFantasy/BluePrints/Odin/OdinChacter.OdinChacter)
+[2019.01.07-06.33.21:360][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.33.21:441][322]LogSavePackage: Save=77.42ms
+[2019.01.07-06.33.21:441][322]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacter564576DB4AD12250A87EA383ED5174AD.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.33.21:443][322]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.34.17:145][918]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.041
+[2019.01.07-06.34.17:148][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2019.01.07-06.34.17:167][918]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2019.01.07-06.34.17:168][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2019.01.07-06.34.17:168][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_AnimBP" FILE="J:/Odin/Odin/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.01.07-06.34.17:293][918]LogSavePackage: Save=118.98ms
+[2019.01.07-06.34.17:293][918]LogSavePackage: Moving 'J:/Odin/Odin/Saved/ThirdPerson_AnimBP_Auto221FD7BF34BBCE80ABFFBD9B1CADCA036.tmp' to 'J:/Odin/Odin/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto2.uasset'
+[2019.01.07-06.34.17:296][918]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto2.uasset
+[2019.01.07-06.34.17:296][918]LogFileHelpers: Auto-saving content packages took 0.150
+[2019.01.07-06.37.55:898][661]BlueprintLog: New page: 编译OdinChacter
+[2019.01.07-06.37.55:926][661]LogBlueprint: Warning: [Compiler OdinChacter] Could not find a variable named "BaseLookUpRate" in 'OdinChacter_C'.
+Make sure 'OdinChacter_C' has been compiled for  获得BaseLookUpRate
+[2019.01.07-06.37.55:928][661]LogBlueprint: Error: [Compiler OdinChacter] 没有找到和  Base Look Up Rate 相关的属性
+[2019.01.07-06.37.56:353][661]LogBlueprint: Warning: [Compiler OdinChacter] [3033.18] Compile of OdinChacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 454 ms] (/Game/NewFantasy/BluePrints/Odin/OdinChacter.OdinChacter)
+[2019.01.07-06.38.05:719][ 57]BlueprintLog: New page: 编译OdinChacter
+[2019.01.07-06.38.06:669][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.38.06:753][ 74]LogSavePackage: Save=78.03ms
+[2019.01.07-06.38.06:753][ 74]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacter7CB88FCF4375BF3AEE94FEA049287D3A.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.38.06:757][ 74]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.38.58:895][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.38.58:967][760]LogSavePackage: Save=68.60ms
+[2019.01.07-06.38.58:968][760]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacter81C2CB324236093B5BA0748CF2E64B16.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.38.58:972][760]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.38.59:697][801]BlueprintLog: New page: 编译OdinChacter
+[2019.01.07-06.39.00:194][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.39.00:266][801]LogSavePackage: Save=68.77ms
+[2019.01.07-06.39.00:266][801]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacterA668F0654814E8DA5E3A798BEEB06EC5.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.39.00:268][801]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.39.16:107][553]BlueprintLog: New page: 编译OdinChacter
+[2019.01.07-06.39.17:266][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.39.17:336][584]LogSavePackage: Save=66.60ms
+[2019.01.07-06.39.17:336][584]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacter798525A04B8F536EBB5C8FA480E6E71E.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.39.17:341][584]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.39.26:382][171]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.07-06.39.26:405][171]LightingResults: New page: 光照构建
+[2019.01.07-06.39.26:407][171]LoadErrors: New page: 正在加载地图： Template_Default.umap
+[2019.01.07-06.39.26:411][171]MapCheck: New page: 地图检测
+[2019.01.07-06.39.26:411][171]LightingResults: New page: 光照构建
+[2019.01.07-06.39.26:549][171]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.07-06.39.26:645][171]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.07-06.39.26:692][171]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.07-06.39.26:827][171]MapCheck: 地图检测完成：0个错误，0 个警告，用时134.469毫秒完成。
+[2019.01.07-06.39.26:827][171]LogFileHelpers: Loading map 'Template_Default' took 0.448
+[2019.01.07-06.39.32:729][754]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.07-06.40.02:758][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Odin" FILE="J:/Odin/Odin/Content/Odin.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.07-06.40.02:830][801]LogSavePackage: Save=33.97ms
+[2019.01.07-06.40.02:830][801]LogSavePackage: Moving 'J:/Odin/Odin/Saved/Odin33B18DB8406CF6C554D505AE616CCE8E.tmp' to 'J:/Odin/Odin/Content/Odin.umap'
+[2019.01.07-06.40.02:831][801]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/Odin.umap
+[2019.01.07-06.40.02:850][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Odin_BuiltData" FILE="J:/Odin/Odin/Content/Odin_BuiltData.uasset" SILENT=true
+[2019.01.07-06.40.02:865][801]LogSavePackage: Save=12.89ms
+[2019.01.07-06.40.02:865][801]LogSavePackage: Moving 'J:/Odin/Odin/Saved/Odin_BuiltData98E1657B4A09DF0B7400168CFB1B875B.tmp' to 'J:/Odin/Odin/Content/Odin_BuiltData.uasset'
+[2019.01.07-06.40.02:867][801]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/Odin_BuiltData.uasset
+[2019.01.07-06.40.02:878][801]LogFileHelpers: Saving map 'Odin' took 0.276
+[2019.01.07-06.40.08:844][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Odin" FILE="J:/Odin/Odin/Content/Map/Odin.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.07-06.40.08:923][133]LogSavePackage: Save=38.83ms
+[2019.01.07-06.40.08:923][133]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinA42D94934C62086B0667AB840D56338F.tmp' to 'J:/Odin/Odin/Content/Map/Odin.umap'
+[2019.01.07-06.40.08:926][133]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/Map/Odin.umap
+[2019.01.07-06.40.08:948][133]LogFileHelpers: Saving map 'Odin' took 0.275
+[2019.01.07-06.41.36:975][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/GameSetting/OdinGameMODE" FILE="J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameMODE.uasset" SILENT=true
+[2019.01.07-06.41.36:986][904]LogSavePackage: Save=8.49ms
+[2019.01.07-06.41.36:986][904]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinGameMODE3A5AF5E2457BAF95FD7143843102BB3D.tmp' to 'J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameMODE.uasset'
+[2019.01.07-06.41.36:989][904]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameMODE.uasset
+[2019.01.07-06.41.38:298][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/GameSetting/OdinGameMODE" FILE="J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameMODE.uasset" SILENT=true
+[2019.01.07-06.41.38:312][971]LogSavePackage: Save=9.55ms
+[2019.01.07-06.41.38:313][971]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinGameMODE38E3BCE14E1B97A6E79819B9A09B4CA0.tmp' to 'J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameMODE.uasset'
+[2019.01.07-06.41.38:315][971]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameMODE.uasset
+[2019.01.07-06.42.35:080][752]LogMetaData: Removing '/Game/NewFantasy/GameSetting/OdinGameInstance.SKEL_OdinGameInstance_C' ref from Metadata '/Game/NewFantasy/GameSetting/NewBlueprint.PackageMetaData'
+[2019.01.07-06.42.35:081][752]LogMetaData: Removing '/Game/NewFantasy/GameSetting/OdinGameInstance.OdinGameInstance_C' ref from Metadata '/Game/NewFantasy/GameSetting/NewBlueprint.PackageMetaData'
+[2019.01.07-06.42.35:116][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/GameSetting/OdinGameInstance" FILE="J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameInstance.uasset" SILENT=true
+[2019.01.07-06.42.35:124][752]LogSavePackage: Save=4.45ms
+[2019.01.07-06.42.35:124][752]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinGameInstance75474D4348ACBB1E27B39BBCEE656D4E.tmp' to 'J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameInstance.uasset'
+[2019.01.07-06.42.35:128][752]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameInstance.uasset
+[2019.01.07-06.42.36:653][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/GameSetting/OdinGameInstance" FILE="J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameInstance.uasset" SILENT=true
+[2019.01.07-06.42.36:661][829]LogSavePackage: Save=2.73ms
+[2019.01.07-06.42.36:661][829]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinGameInstance179FD9434C7E50736D76F092AD027237.tmp' to 'J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameInstance.uasset'
+[2019.01.07-06.42.36:663][829]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameInstance.uasset
+[2019.01.07-06.50.07:976][371]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Odin' took 0.035
+[2019.01.07-06.50.07:979][371]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2019.01.07-06.50.07:992][371]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2019.01.07-06.50.07:993][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2019.01.07-06.50.07:993][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_AnimBP" FILE="J:/Odin/Odin/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.01.07-06.50.08:099][371]LogSavePackage: Save=100.99ms
+[2019.01.07-06.50.08:099][371]LogSavePackage: Moving 'J:/Odin/Odin/Saved/ThirdPerson_AnimBP_Auto3ABE9C178474FAF9FF789618899CF2D0B.tmp' to 'J:/Odin/Odin/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto3.uasset'
+[2019.01.07-06.50.08:102][371]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto3.uasset
+[2019.01.07-06.50.08:105][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Odin_BuiltData" FILE="J:/Odin/Odin/Saved/Autosaves/Game/Map/Odin./Game/Map/Odin_BuiltData_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.01.07-06.50.08:105][371]LogExec: Warning: Missing filename
+[2019.01.07-06.50.08:105][371]LogFileHelpers: Auto-saving content packages took 0.127
+[2019.01.07-06.50.17:384][858]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.07-06.50.42:303][101]BlueprintLog: New page: 编译OdinGameMode
+[2019.01.07-06.50.42:986][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/GameSetting/OdinGameMODE" FILE="J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameMODE.uasset" SILENT=true
+[2019.01.07-06.50.42:998][119]LogSavePackage: Save=7.39ms
+[2019.01.07-06.50.42:998][119]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinGameMODE53FE32414DD760B9BFEED5B111348B6B.tmp' to 'J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameMODE.uasset'
+[2019.01.07-06.50.43:001][119]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/GameSetting/OdinGameMODE.uasset
+[2019.01.07-06.50.51:787][658]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.07-06.50.56:261][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Odin" FILE="J:/Odin/Odin/Content/Map/Odin.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.07-06.50.56:345][974]LogSavePackage: Save=40.09ms
+[2019.01.07-06.50.56:345][974]LogSavePackage: Moving 'J:/Odin/Odin/Saved/Odin820C2113469C4B8885826E80959F8D35.tmp' to 'J:/Odin/Odin/Content/Map/Odin.umap'
+[2019.01.07-06.50.56:349][974]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/Map/Odin.umap
+[2019.01.07-06.50.57:489][ 61]LogTemp: Repeating last play command: 选中的视口
+[2019.01.07-06.50.57:524][ 61]BlueprintLog: New page: 运行前自动重新编译
+[2019.01.07-06.50.57:534][ 61]LogPlayLevel: [PlayLevel] Compiling ThirdPerson_AnimBP before play...
+[2019.01.07-06.50.57:719][ 61]LogPlayLevel: PlayLevel: Blueprint regeneration took 194 ms (1 blueprints)
+[2019.01.07-06.50.57:719][ 61]PIE: New page: PIE会话: Odin (2019年1月7日 下午10:50:57)
+[2019.01.07-06.50.57:719][ 61]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Odin
+[2019.01.07-06.50.57:726][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006601s)
+[2019.01.07-06.50.57:727][ 61]LogAIModule: Creating AISystem for world Odin
+[2019.01.07-06.50.57:727][ 61]LogPlayLevel: PIE: World Init took: (0.001567s)
+[2019.01.07-06.50.57:728][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Odin.Odin to /Game/Map/UEDPIE_0_Odin.Odin (0.008850s)
+[2019.01.07-06.50.57:815][ 61]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.07-06.50.57:852][ 61]LogInit: FAudioDevice initialized.
+[2019.01.07-06.50.57:886][ 61]LogLoad: Game class is 'OdinGameMode_C'
+[2019.01.07-06.50.57:889][ 61]LogWorld: Bringing World /Game/Map/UEDPIE_0_Odin.Odin up for play (max tick rate 0) at 2019.01.07-14.50.57
+[2019.01.07-06.50.57:889][ 61]LogWorld: Bringing up level for play took: 0.001561
+[2019.01.07-06.50.57:890][ 61]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.07-06.50.57:901][ 61]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.07-06.50.57:901][ 61]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.07-06.50.57:903][ 61]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.07-06.50.57:903][ 61]PIE: /Game/Map/UEDPIE_0_Odin的‘在编辑器中播放’的起始时间0.325
+[2019.01.07-06.51.28:776][991]BlueprintLog: New page: 编译OdinChacter
+[2019.01.07-06.51.29:513][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.51.29:585][994]LogSavePackage: Save=66.62ms
+[2019.01.07-06.51.29:585][994]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacterE10A455F411FF6233084EC92D63670F5.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.51.29:589][994]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.51.43:846][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.51.43:925][663]LogSavePackage: Save=74.86ms
+[2019.01.07-06.51.43:925][663]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacterDA276E9C4B6FE92197D4779C6E80F246.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.51.43:929][663]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.51.49:429][938]BlueprintLog: New page: 编译OdinChacter
+[2019.01.07-06.51.50:032][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.51.50:104][940]LogSavePackage: Save=68.83ms
+[2019.01.07-06.51.50:104][940]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacter7CE1E71A4B20131C93F804B6083F905A.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.51.50:107][940]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.52.48:800][274]BlueprintLog: New page: 编译OdinChacter
+[2019.01.07-06.52.49:644][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.52.49:733][281]LogSavePackage: Save=68.49ms
+[2019.01.07-06.52.49:733][281]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacter43F69B82483376EF4D01E68F70740D44.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.52.49:737][281]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.52.53:997][608]LogTemp: Repeating last play command: 选中的视口
+[2019.01.07-06.52.54:036][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.07-06.52.54:036][608]PIE: New page: PIE会话: Odin (2019年1月7日 下午10:52:54)
+[2019.01.07-06.52.54:036][608]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Odin
+[2019.01.07-06.52.54:043][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007184s)
+[2019.01.07-06.52.54:044][608]LogAIModule: Creating AISystem for world Odin
+[2019.01.07-06.52.54:045][608]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2019.01.07-06.52.54:045][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Odin.Odin to /Game/Map/UEDPIE_0_Odin.Odin (0.008897s)
+[2019.01.07-06.52.54:118][608]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.07-06.52.54:154][608]LogInit: FAudioDevice initialized.
+[2019.01.07-06.52.54:189][608]LogLoad: Game class is 'OdinGameMode_C'
+[2019.01.07-06.52.54:192][608]LogWorld: Bringing World /Game/Map/UEDPIE_0_Odin.Odin up for play (max tick rate 0) at 2019.01.07-14.52.54
+[2019.01.07-06.52.54:192][608]LogWorld: Bringing up level for play took: 0.001055
+[2019.01.07-06.52.54:193][608]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.07-06.52.54:193][608]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.07-06.52.54:193][608]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.07-06.52.54:194][608]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.07-06.52.54:195][608]PIE: /Game/Map/UEDPIE_0_Odin的‘在编辑器中播放’的起始时间0.617
+[2019.01.07-06.52.56:511][798]Cmd: SELECT NONE
+[2019.01.07-06.53.03:815][221]BlueprintLog: New page: 编译OdinChacter
+[2019.01.07-06.53.04:689][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.53.04:763][232]LogSavePackage: Save=70.51ms
+[2019.01.07-06.53.04:763][232]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacter86C4C1A44D42681F82431981D1DCB0D3.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.53.04:767][232]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.53.09:780][459]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.07-06.53.30:498][461]LogAnimation: Warning: SkeletalMesh SK_L_Male_Base has no skeleton. This needs to fixed before an animation can be set
+[2019.01.07-06.53.32:616][559]BlueprintLog: New page: 编译OdinChacter
+[2019.01.07-06.53.33:605][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.53.33:679][587]LogSavePackage: Save=70.61ms
+[2019.01.07-06.53.33:679][587]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacter9DBA82874743623358E125B1AA4911EF.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.53.33:683][587]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.53.47:857][991]LogTemp: Repeating last play command: 选中的视口
+[2019.01.07-06.53.47:895][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.07-06.53.47:896][991]PIE: New page: PIE会话: Odin (2019年1月7日 下午10:53:47)
+[2019.01.07-06.53.47:896][991]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Odin
+[2019.01.07-06.53.47:903][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007041s)
+[2019.01.07-06.53.47:904][991]LogAIModule: Creating AISystem for world Odin
+[2019.01.07-06.53.47:905][991]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2019.01.07-06.53.47:905][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Odin.Odin to /Game/Map/UEDPIE_0_Odin.Odin (0.009043s)
+[2019.01.07-06.53.47:982][991]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.07-06.53.48:022][991]LogInit: FAudioDevice initialized.
+[2019.01.07-06.53.48:059][991]LogLoad: Game class is 'OdinGameMode_C'
+[2019.01.07-06.53.48:060][991]LogWorld: Bringing World /Game/Map/UEDPIE_0_Odin.Odin up for play (max tick rate 0) at 2019.01.07-14.53.48
+[2019.01.07-06.53.48:061][991]LogWorld: Bringing up level for play took: 0.001063
+[2019.01.07-06.53.48:062][991]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.07-06.53.48:062][991]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.07-06.53.48:062][991]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.07-06.53.48:064][991]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.07-06.53.48:064][991]PIE: /Game/Map/UEDPIE_0_Odin的‘在编辑器中播放’的起始时间0.486
+[2019.01.07-06.54.20:964][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFantasy/BluePrints/Odin/OdinChacter" FILE="J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset" SILENT=true
+[2019.01.07-06.54.21:049][287]LogSavePackage: Save=79.44ms
+[2019.01.07-06.54.21:049][287]LogSavePackage: Moving 'J:/Odin/Odin/Saved/OdinChacter0F4AF3944C656AE3CC3AFC9DCE8376B6.tmp' to 'J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset'
+[2019.01.07-06.54.21:052][287]LogSavePackage: Display: Finished SavePackage J:/Odin/Odin/Content/NewFantasy/BluePrints/Odin/OdinChacter.uasset
+[2019.01.07-06.54.22:004][320]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.07-06.54.22:106][320]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.07-06.54.22:584][320]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.07-06.54.23:061][320]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.07-06.54.28:046][417]Cmd: QUIT_EDITOR
+[2019.01.07-06.54.28:937][417]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2019.01.07-06.54.28:960][417]LogExit: Preparing to exit.
+[2019.01.07-06.54.29:352][417]LogExit: Editor shut down
+[2019.01.07-06.54.29:365][417]LogExit: Transaction tracking system shut down
+[2019.01.07-06.54.29:641][417]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.01.07-06.54.29:641][417]LogDirectoryWatcher: A directory notification for 'J:/Odin/Odin/Content/' was aborted.
+[2019.01.07-06.54.29:641][417]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2019.01.07-06.54.29:641][417]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.01.07-06.54.29:642][417]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.01.07-06.54.29:642][417]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.01.07-06.54.29:642][417]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.01.07-06.54.29:869][417]LogExit: Object subsystem successfully closed.
+[2019.01.07-06.54.29:896][417]LogD3D11RHI: Shutdown
+[2019.01.07-06.54.29:896][417]LogD3D11RHI: CleanupD3DDevice
+[2019.01.07-06.54.29:903][417]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.07-06.54.29:922][417]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (564)
+[2019.01.07-06.54.29:922][417]LogModuleManager: Shutting down and abandoning module NewLevelDialog (562)
+[2019.01.07-06.54.29:922][417]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (560)
+[2019.01.07-06.54.29:922][417]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (558)
+[2019.01.07-06.54.29:922][417]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2019.01.07-06.54.29:922][417]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (554)
+[2019.01.07-06.54.29:922][417]LogModuleManager: Shutting down and abandoning module SkeletonEditor (552)
+[2019.01.07-06.54.29:922][417]LogModuleManager: Shutting down and abandoning module AnimationEditor (550)
+[2019.01.07-06.54.29:922][417]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2019.01.07-06.54.29:922][417]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2019.01.07-06.54.29:922][417]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2019.01.07-06.54.29:922][417]LogDirectoryWatcher: A directory notification for 'E:/Unreal4/UE_4.18/FeaturePacks/' was aborted.
+[2019.01.07-06.54.29:925][417]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2019.01.07-06.54.29:925][417]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2019.01.07-06.54.29:925][417]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2019.01.07-06.54.29:925][417]LogDirectoryWatcher: A directory notification for 'J:/Odin/Odin/Content/Collections/' was aborted.
+[2019.01.07-06.54.29:925][417]LogDirectoryWatcher: A directory notification for 'J:/Odin/Odin/Content/Developers/Administrator/Collections/' was aborted.
+[2019.01.07-06.54.29:925][417]LogDirectoryWatcher: A directory notification for 'J:/Odin/Odin/Saved/Collections/' was aborted.
+[2019.01.07-06.54.29:925][417]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2019.01.07-06.54.29:925][417]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2019.01.07-06.54.29:925][417]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2019.01.07-06.54.29:925][417]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2019.01.07-06.54.29:925][417]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2019.01.07-06.54.29:926][417]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2019.01.07-06.54.29:927][417]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2019.01.07-06.54.29:927][417]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2019.01.07-06.54.29:927][417]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2019.01.07-06.54.29:927][417]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2019.01.07-06.54.29:927][417]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2019.01.07-06.54.29:927][417]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2019.01.07-06.54.29:927][417]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2019.01.07-06.54.29:927][417]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2019.01.07-06.54.29:927][417]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2019.01.07-06.54.29:927][417]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2019.01.07-06.54.30:457][417]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2019.01.07-06.54.30:457][417]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2019.01.07-06.54.30:457][417]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2019.01.07-06.54.30:457][417]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2019.01.07-06.54.30:457][417]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2019.01.07-06.54.30:457][417]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2019.01.07-06.54.30:457][417]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2019.01.07-06.54.30:457][417]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2019.01.07-06.54.30:457][417]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2019.01.07-06.54.30:458][417]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2019.01.07-06.54.30:501][417]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2019.01.07-06.54.30:501][417]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2019.01.07-06.54.30:501][417]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2019.01.07-06.54.30:501][417]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2019.01.07-06.54.30:501][417]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2019.01.07-06.54.30:501][417]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2019.01.07-06.54.30:502][417]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2019.01.07-06.54.30:502][417]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2019.01.07-06.54.30:502][417]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2019.01.07-06.54.30:502][417]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2019.01.07-06.54.30:517][417]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2019.01.07-06.54.30:520][417]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2019.01.07-06.54.30:520][417]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2019.01.07-06.54.30:520][417]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2019.01.07-06.54.30:520][417]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2019.01.07-06.54.30:520][417]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2019.01.07-06.54.30:520][417]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2019.01.07-06.54.30:521][417]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2019.01.07-06.54.30:521][417]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2019.01.07-06.54.30:521][417]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2019.01.07-06.54.30:521][417]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2019.01.07-06.54.30:521][417]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2019.01.07-06.54.30:521][417]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2019.01.07-06.54.30:521][417]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2019.01.07-06.54.30:521][417]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2019.01.07-06.54.30:521][417]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2019.01.07-06.54.30:521][417]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2019.01.07-06.54.30:521][417]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2019.01.07-06.54.30:521][417]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2019.01.07-06.54.30:521][417]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2019.01.07-06.54.30:659][417]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2019.01.07-06.54.30:659][417]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2019.01.07-06.54.30:659][417]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2019.01.07-06.54.30:659][417]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2019.01.07-06.54.30:659][417]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2019.01.07-06.54.30:659][417]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2019.01.07-06.54.30:659][417]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2019.01.07-06.54.30:659][417]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2019.01.07-06.54.30:659][417]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2019.01.07-06.54.30:659][417]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2019.01.07-06.54.30:659][417]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2019.01.07-06.54.30:659][417]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2019.01.07-06.54.30:660][417]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2019.01.07-06.54.30:661][417]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2019.01.07-06.54.30:661][417]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2019.01.07-06.54.30:662][417]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2019.01.07-06.54.30:662][417]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2019.01.07-06.54.30:662][417]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2019.01.07-06.54.30:664][417]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2019.01.07-06.54.30:664][417]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2019.01.07-06.54.30:664][417]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2019.01.07-06.54.30:664][417]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2019.01.07-06.54.30:664][417]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2019.01.07-06.54.30:664][417]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2019.01.07-06.54.30:664][417]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2019.01.07-06.54.30:664][417]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2019.01.07-06.54.30:765][417]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2019.01.07-06.54.30:866][417]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2019.01.07-06.54.30:866][417]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2019.01.07-06.54.30:866][417]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2019.01.07-06.54.30:866][417]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2019.01.07-06.54.30:866][417]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2019.01.07-06.54.30:866][417]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2019.01.07-06.54.30:869][417]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.01.07-06.54.30:869][417]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2019.01.07-06.54.30:869][417]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2019.01.07-06.54.30:869][417]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2019.01.07-06.54.30:869][417]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2019.01.07-06.54.30:869][417]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.01.07-06.54.30:869][417]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.01.07-06.54.30:869][417]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.01.07-06.54.30:869][417]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.01.07-06.54.30:869][417]LogModuleManager: Shutting down and abandoning module Media (221)
+[2019.01.07-06.54.30:876][417]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2019.01.07-06.54.30:876][417]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2019.01.07-06.54.30:876][417]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2019.01.07-06.54.30:876][417]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2019.01.07-06.54.30:876][417]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2019.01.07-06.54.30:876][417]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2019.01.07-06.54.30:876][417]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2019.01.07-06.54.30:876][417]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2019.01.07-06.54.30:876][417]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2019.01.07-06.54.30:876][417]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2019.01.07-06.54.30:877][417]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2019.01.07-06.54.30:877][417]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2019.01.07-06.54.30:877][417]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2019.01.07-06.54.30:877][417]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2019.01.07-06.54.30:877][417]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2019.01.07-06.54.30:877][417]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2019.01.07-06.54.30:881][417]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.01.07-06.54.30:881][417]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.01.07-06.54.30:881][417]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.01.07-06.54.30:881][417]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.01.07-06.54.30:881][417]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.01.07-06.54.30:881][417]LogModuleManager: Shutting down and abandoning module Core (172)
+[2019.01.07-06.54.30:881][417]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2019.01.07-06.54.30:881][417]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2019.01.07-06.54.30:884][417]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2019.01.07-06.54.30:884][417]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2019.01.07-06.54.30:884][417]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2019.01.07-06.54.30:884][417]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2019.01.07-06.54.30:884][417]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2019.01.07-06.54.30:884][417]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2019.01.07-06.54.30:884][417]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2019.01.07-06.54.30:884][417]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2019.01.07-06.54.30:884][417]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2019.01.07-06.54.30:951][417]LogDerivedDataCache: Shutdown
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2019.01.07-06.54.30:951][417]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2019.01.07-06.54.30:952][417]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2019.01.07-06.54.30:953][417]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.01.07-06.54.30:953][417]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.01.07-06.54.30:953][417]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.01.07-06.54.30:953][417]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.01.07-06.54.30:953][417]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.01.07-06.54.30:953][417]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.07-06.54.30:953][417]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE9BF5D2F-4E82-6456-7B03-489E7ACD8D7A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=296a1f0049f915eb6cc4ff81ee48babf%7C412d700e668d46d48ad8c92d70c97375%7C009cc6d6-ce20-4ff3-80ae-18e1913c419b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.07-06.54.30:962][417]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.01.07-06.54.30:966][417]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.07-06.54.30:966][417]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.07-06.54.30:966][417]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.07-06.54.30:966][417]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.07-06.54.30:966][417]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.07-06.54.30:967][417]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.07-06.54.30:967][417]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.07-06.54.30:974][417]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.07-06.54.30:974][417]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.07-06.54.30:974][417]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.07-06.54.30:974][417]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.07-06.54.30:974][417]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.07-06.54.30:974][417]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.07-06.54.30:974][417]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.07-06.54.30:974][417]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.07-06.54.30:974][417]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.07-06.54.30:974][417]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.07-06.54.30:974][417]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.07-06.54.30:980][417]LogExit: Exiting.
+[2019.01.07-06.54.30:991][417]Log file closed, 01/07/19 14:54:30
